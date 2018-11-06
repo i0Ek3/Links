@@ -6,9 +6,11 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 * [Algorithm](#Algorithm)
 * [Activate](#Activate)
+* [Apps](#Apps)
 * [Blockchain](#Blockchain)
 * [Blog](#Blog)
 * [Black List](#black-list)
+* [Browser](#browser)
 * [Boot](#Boot)
 * [Book Community](#book-community)
 * [Cyber Security](#cyber-security)
@@ -38,6 +40,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Online Editor](#online-editor)
 * [Proxy](#Proxy)
 * [Programming Languages](#programming-languages)
+* [Project](#project)
 * [Picture](#Picture)
 * [Router](#Router)
 * [Security OS](#security-os)
@@ -77,11 +80,20 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
+## Apps
+
+* [electronapps](https://electronjs.org/apps)
+
+
+
+
+
 ## Black List
 
 - [itblacklist](http://www.itblacklist.cn/)
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)
 - [blackdir](http://www.blackdir.com/jump/index)
+
 
 
 ## Blockchain
@@ -142,6 +154,19 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [firewolf](https://www.firewolf.science)
 - [柳诺](https://liuchuo.net/)
 - [kn007](https://kn007.net)
+
+
+
+## Browser
+
+- Firefox 大名鼎鼎，就不需要我贴地址了吧，不过注意区分国际和国内的地址，二者不一样的。
+- [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)
+- Chrome & Chromium 自己考虑吧，反正我是不会用了。
+- [Tor]()
+- [Vivaldi](https://vivaldi.com/zh-hans/download/) 一款高度可定制化浏览器。
+- [IRIDIUM](https://iridiumbrowser.de/) 一款德国品牌的浏览器。
+- [brave](https://brave.com/)
+
 
 
 
@@ -574,6 +599,15 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
+## Project
+
+- [localizationlab](https://www.localizationlab.org/projects/)
+- [framasoft](https://framasoft.org/?l=en)
+- [prism-break](https://prism-break.org/en/)
+
+
+
+
 ## Picture
 
 - [octodex](https://octodex.github.com)
@@ -590,14 +624,17 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Search Engine
 
-- [Google](https://encrypted.google.com/) 该网址比https://www.google.com稍微安全一些。
+- [qwant](https://www.qwant.com/)
+- [searx](https://searx.me/)
+- [metager](https://metager.org/)
+- [Duckduckgo](https://duckduckgo.com)
+- [Google](https://encrypted.google.com/) 该网址比https://www.google.com稍微安全一些。不过，随着反谷歌计划的开启，我将放弃使用部分谷歌服务。
 - [startpage](https://www.startpage.com/) 匿名搜索网址。
 - [GeekBang Search](https://s.geekbang.org/)
 - [Deepso](https://deepso.io/)
 - [Learn-anything](https://learn-anything.xyz)
 - [SECNAV](http://secnav.dropsec.xyz)
 - [Gitnavi](http://www.gitnavi.com)
-- [Duckduckgo](https://duckduckgo.com)
 - [Zoomeye](http://www.zoomeye.org)
 - [Shodan](https://shodan.io)
 
@@ -692,6 +729,9 @@ Something in here are my collections for funny resource which includes Linux/Sec
     - [Nitrogen](http://cergo666.tk/wight554/)
     - [9.0](https://androidfilehost.com/?w=files&flid=282986)
 - [opengapps](https://opengapps.org)
+- tools
+    - [toolallinone](https://toolaio.tk/download/)
+
 
 
 
@@ -716,8 +756,6 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [Babun](https://github.com/babun/babun) 一款Shell。
 - [wox](http://www.wox.one) 类似mac下的Alfreld。
 - [speedcrunch](http://www.speedcrunch.org/) 计算器。
-- [Vivaldi](https://vivaldi.com/zh-hans/download/) 一款高度可定制化浏览器。
-- [IRIDIUM](https://iridiumbrowser.de/) 一款德国品牌的浏览器。
 - [WoeUSB](https://github.com/slacka/WoeUSB)
 - [Multibootusb](https://github.com/mbusb/multibootusb)
 - [sudo for Windows](https://github.com/mattn/sudo)
