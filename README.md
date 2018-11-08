@@ -642,6 +642,8 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Sites
 
+- [restoreprivacy](https://restoreprivacy.com/)
+- [steemit](https://steemit.com/)
 - [Solidot](https://www.solidot.org/)
 - [tiobe](https://www.tiobe.com/)
 - [openhub](https://www.openhub.net/)
