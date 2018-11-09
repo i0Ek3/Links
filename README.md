@@ -17,6 +17,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Code Online](#code-online)
 * [Complain](#Complain)
 * [Develop](#Develop)
+* [Dict](#dict)
 * [Ebook](#Ebook)
 * [Encrypt](#Encrypt)
 * [Font](#Font)
@@ -246,9 +247,19 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Develop   
 
+- [Ubuntu Manapages](http://manpages.ubuntu.com/manpages/)
 - [开发者速查表](http://devhints.cn/)
 - [腾讯发者手册](https://cloud.tencent.com/developer/doc/1023)
 - [asciinema](https://asciinema.org/)
+
+
+
+## Dict
+
+- [Merriam-webster](https://www.merriam-webster.com/)
+- [Dict](https://en.bab.la/)
+- [Spanishdict](http://www.spanishdict.com)
+- [Oulu](https://www.dictionary.com/browse/oulu)
 
 
 
@@ -420,9 +431,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
     - [可可英语语法](http://www.kekenet.com/grammar/)
 - Spanish
-    - [Spanishdict](http://www.spanishdict.com)
     - [forvo](https://zh.forvo.com/languages/es/)
-- [Dict](https://en.bab.la/)
 
 
 
@@ -508,6 +517,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Other
 
+- [Forbes](https://www.forbes.com/#4d0a37c42254)
 - [TextNow](https://www.textnow.com/) Virtual telephone.
 - [分流抢票](http://www.12306bypass.com/) Third client for 12306er.
 - [cn-data](https://github.com/cn)
@@ -748,7 +758,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Windows Software
 
-- Windows Optinum
+- Windows Optimization
     - [@felixrieseberg:windows-development-environment](https://github.com/felixrieseberg/windows-development-environment) Windwos下开发环境部署。
     - [@szzhiyang:PerfectWindows](https://github.com/szzhiyang/PerfectWindows)
     - [@adolfintel:Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) Windows10高度精简。
