@@ -120,6 +120,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Blog
 
+- [sindresorhus](https://sindresorhus.com/) Awesome man, high quality coder.
 - [phodal](https://www.phodal.com/)
 - [xia1ge](https://www.xia1ge.com/)
 - [James Routley](https://routley.io/)
@@ -248,7 +249,9 @@ Something in here are my collections for funny resource which includes Linux/Sec
 ## Develop   
 
 - [Ubuntu Manapages](http://manpages.ubuntu.com/manpages/)
-- [开发者速查表](http://devhints.cn/)
+- 开发者速查表
+    - [cn@justjavac](http://devhints.cn/)
+    - [io@rstacruz](http://devhints.io/)
 - [腾讯发者手册](https://cloud.tencent.com/developer/doc/1023)
 - [asciinema](https://asciinema.org/)
 
@@ -768,8 +771,9 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [Babun](https://github.com/babun/babun) 一款Shell。
 - [wox](http://www.wox.one) 类似mac下的Alfreld。
 - [speedcrunch](http://www.speedcrunch.org/) 计算器。
-- [WoeUSB](https://github.com/slacka/WoeUSB)
-- [Multibootusb](https://github.com/mbusb/multibootusb)
+- boot
+    - [WoeUSB](https://github.com/slacka/WoeUSB)
+    - [Multibootusb](https://github.com/mbusb/multibootusb)
 - [sudo for Windows](https://github.com/mattn/sudo)
 - []()
 - []()
