@@ -121,6 +121,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Blog
 
+- [trevordmiller](https://trevordmiller.com) Awesome guy!
 - [sindresorhus](https://sindresorhus.com/) Awesome man, high quality coder.
 - [phodal](https://www.phodal.com/)
 - [xia1ge](https://www.xia1ge.com/)
@@ -596,9 +597,11 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Proxy
 
-- [shadowsocks.be](https://shadowsocks.be/)
+- [shadowsocks](https://portal.shadowsocks.nu/) 这是官方的shadowsocks，该链接一直在更换，如果打不开，请使用代理打开下面两个永久链接。
+    - [permanent link1](https://shadowsocks.com)
+    - [permanent link2](https://portal.shadowsocks.com)
+- [shadowsocks.be](https://shadowsocks.be/) 非官方shadowsocks。
 - [privoxy](http://www.privoxy.org)
-- [ShadowsocksCustom](https://portal.shadowsocks.se)
 - [PortsClients4SS](https://github.com/shadowsocks/shadowsocks/wiki/Ports-and-Clients)
 - [shadowsocks.org](http://shadowsocks.org/en/index.html)
 - [OVPN](https://www.ovpn.com/en)
@@ -733,28 +736,30 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [AICP](http://dwnld.aicp-rom.com/)
 - [Mokee](https://download.mokeedev.com)
 - [Lineageos](https://download.lineageos.org)
-    - [LOS 15.1 for flo](https://drive.google.com/drive/folders/0B7jApZFEHXFuUFlXUThyd2g0V3c)
     - [Lineageosrom](https://www.lineageosrom.com/)
     - [Cyanogenmods](https://www.cyanogenmods.org/)
 - [Unlegency Android Project](http://builds.unlegacy-android.org)
 - [sailfish os](http://images.devaamo.fi)
-- [Oreo for bacon](https://forum.xda-developers.com/oneplus-one/orig-development/rom-aosp-oreo-oneplus-one-t3666741)
-    - [download](https://androidfilehost.com/?w=files&flid=211773)
-- Xiaomi Mix2(chiron)
-    - [mimix2builds](https://funkyhuawei.club/mimix2builds)
-    - MIUI
-        - [en](https://en.miui.com/download-334.html)
-        - [cn](https://www.miui.com/download-337.html)
-        - [pl](https://miuipolska.pl/download/)
-        - [eu](https://jaist.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/)
-    - [epicrom](http://www.epicrom.pro/)
-    - [LOS](https://download.lineageos.org/chiron)
-    - [MOKEE](https://download.mokeedev.com/?device=chiron)
-    - [Nitrogen](http://cergo666.tk/wight554/)
-    - [9.0](https://androidfilehost.com/?w=files&flid=282986)
 - [opengapps](https://opengapps.org)
-- tools
-    - [toolallinone](https://toolaio.tk/download/)
+- devices
+    - Xiaomi Mix2(chiron)
+        - [mimix2builds](https://funkyhuawei.club/mimix2builds)
+        - MIUI
+            - [en](https://en.miui.com/download-334.html)
+            - [cn](https://www.miui.com/download-337.html)
+            - [pl](https://miuipolska.pl/download/)
+            - [eu](https://jaist.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/)
+        - [epicrom](http://www.epicrom.pro/)
+        - [LOS](https://download.lineageos.org/chiron)
+        - [MOKEE](https://download.mokeedev.com/?device=chiron)
+        - [Nitrogen](http://cergo666.tk/wight554/)
+        - [9.0](https://androidfilehost.com/?w=files&flid=282986)
+    - Oneplus One(bacon)
+        - [Oreo](https://forum.xda-developers.com/oneplus-one/orig-development/rom-aosp-oreo-oneplus-one-t3666741)
+        - [POSP](https://sourceforge.net/projects/posp/files/bacon/)
+        - [Arrow](https://sourceforge.net/projects/arrow-os/files/arrow-9.x/bacon/)
+        - tools
+            - [toolallinone](https://toolaio.tk/download/)
 
 
 
