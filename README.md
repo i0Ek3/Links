@@ -468,14 +468,15 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Movie
 
-- [bd-film](https://www.bdys.co) 原链接失效，新的网站垃圾广告多多。
+- [www.bd-film.cc/](www.bd-film.cc/) 之前的又失效了，这个是新的。
+- ~~[bd-film](https://www.bdys.co) 原链接失效，新的网站垃圾广告多多。~~
 - ~~[bd-film](http://www.bd-film.co/)~~
-- [bt0](http://bt0.com/)
+- [bt0](http://bt0.com/) 网站有改版哦！
 - [rarbg](https://rarbg.is/torrents.php)
 - [阳光电影](http://ygdy8.com)
 - [人人影视](http://www.yyets.com/)
 - [天天美剧](http://www.msj1.com/)
-- [六维空间](http://bt.neu6.edu.cn 'You need IPv6!')
+- [六维空间](http://bt.neu6.edu.cn) IPv6 only!
 
 
 
@@ -572,9 +573,9 @@ Something in here are my collections for funny resource which includes Linux/Sec
     - [Learning](https://julialang.org/learning/)
 - assembly
     - [X86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
-- react native
+- react
+    - [react.js小书](http://huziketang.mangojuice.top/books/react/)
     - [zh](https://reactnative.cn/docs/0.51/getting-started.html#content)
-    - [en]()
     - [react入门](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html)
     - [react相关](https://www.tuicool.com/articles/zaInUbA)
     - If you see error with `Unexpected end of JSON input while parsing near`, please run command : `npm cache clean --force`, then run you original command.
