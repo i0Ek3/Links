@@ -50,6 +50,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Speed Test](#speed-test)
 * [Terminal](#terminal)
 * [Third ROM](#third-rom)
+* [Video Player](#video-player)
 * [Virtual](#Virtual)
 * [Windows OS Download](#windows-os-download)
 * [Windows Software](#windows-software)
@@ -660,6 +661,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Sites
 
+- [9to5google](https://9to5google.com/)
 - [restoreprivacy](https://restoreprivacy.com/)
 - [steemit](https://steemit.com/)
 - [Solidot](https://www.solidot.org/)
@@ -761,6 +763,26 @@ Something in here are my collections for funny resource which includes Linux/Sec
         - [Arrow](https://sourceforge.net/projects/arrow-os/files/arrow-9.x/bacon/)
         - tools
             - [toolallinone](https://toolaio.tk/download/)
+
+
+
+## Virtual
+
+- [VMWare]()
+- [Virtual Box]()
+- []()
+- []()
+
+
+
+
+
+## Video Player
+
+- [mpv](https://mpv.io/)
+- [vlc](https://www.videolan.org/vlc/)
+- [iina](https://lhc70000.github.io/iina/)
+- []()
 
 
 
