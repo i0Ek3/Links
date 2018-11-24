@@ -18,6 +18,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Complain](#Complain)
 * [Develop](#Develop)
 * [Dict](#dict)
+* [Download Tools](#download-tools)
 * [Ebook](#Ebook)
 * [Encrypt](#Encrypt)
 * [Font](#Font)
@@ -50,6 +51,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Speed Test](#speed-test)
 * [Terminal](#terminal)
 * [Third ROM](#third-rom)
+* [Theme](#theme)
 * [Video Player](#video-player)
 * [Virtual](#Virtual)
 * [Windows OS Download](#windows-os-download)
@@ -101,6 +103,8 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Blockchain
 
+- [coinbureau](https://www.coinbureau.com/)
+- [bitshares](https://bitshares.org/)
 - [Blockchain](https://www.blockchain.com/explorer)
 - [dapps](https://www.stateofthedapps.com/)
 - [101blockchains](https://101blockchains.com/)
@@ -122,6 +126,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Blog
 
+- [vitalik](https://vitalik.ca/)
 - [trevordmiller](https://trevordmiller.com) Awesome guy!
 - [sindresorhus](https://sindresorhus.com/) Awesome man, high quality coder.
 - [phodal](https://www.phodal.com/)
@@ -171,6 +176,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [Vivaldi](https://vivaldi.com/zh-hans/download/) 一款高度可定制化浏览器。
 - [IRIDIUM](https://iridiumbrowser.de/) 一款德国品牌的浏览器。
 - [brave](https://brave.com/)
+- [breaker](https://beakerbrowser.com/)
 
 
 
@@ -266,6 +272,16 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [Dict](https://en.bab.la/)
 - [Spanishdict](http://www.spanishdict.com)
 - [Oulu](https://www.dictionary.com/browse/oulu)
+- [DeepL](https://www.deepl.com/translator)
+- [dict.cc](https://www.dict.cc/)
+- [Linguee](https://www.linguee.com/)
+
+
+
+## Donwload Tools
+
+- [transmissionbt](https://transmissionbt.com/)
+- [FDM]()
 
 
 
@@ -709,6 +725,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [whonix](https://www.whonix.org/)
     - [docs](https://www.whonix.org/wiki/Documentation)
 - [qubes](https://www.qubes-os.org/)
+- [PureOS](https://pureos.net/)
 
 
 
@@ -763,6 +780,12 @@ Something in here are my collections for funny resource which includes Linux/Sec
         - [Arrow](https://sourceforge.net/projects/arrow-os/files/arrow-9.x/bacon/)
         - tools
             - [toolallinone](https://toolaio.tk/download/)
+
+
+
+## Theme
+
+- [monokai.pro](https://www.monokai.pro/)
 
 
 
