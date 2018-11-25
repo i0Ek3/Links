@@ -21,6 +21,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Download Tools](#download-tools)
 * [Ebook](#Ebook)
 * [Encrypt](#Encrypt)
+* [Emoji](#emoji)
 * [Font](#Font)
 * [Good Books](#good-books)
 * [Github](#Github)
@@ -297,6 +298,16 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
+## Emoji
+
+- [emoji-cheat-sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+- [gitemoji](https://gitmoji.carloscuesta.me/)
+- [emojione](https://www.emojione.com/)
+- [codemoji.org](https://codemoji.org/#/encrypt)
+- [atom-git-commit](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages)
+
+
+
 ## Font
 
 - [nerd-fonts](https://nerdfonts.com/)
@@ -305,8 +316,10 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [fontspace](http://www.fontspace.com/)
 
 
+
 ## Good Books
 
+- [blockchain-tutorial](https://liuchengxu.gitbooks.io/blockchain-tutorial/content/)
 - [Node.js区块链开发](http://bitcoin-on-nodejs.ebookchain.org/)
 - [On Lisp](https://www.kancloud.cn/ituring/on-lisp/56192)
 - [Redis设计与实现](https://www.kancloud.cn/kancloud/redisbook/63822)
@@ -322,13 +335,12 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [ES6](http://es6.ruanyifeng.com)
 
 
+
 ## Github
 
 - [hub](https://hub.github.com)
 - [legit](http://www.git-legit.org)
 - [shields](http://shields.io)
-- [emoji-cheat-sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
-    - [emojione](https://www.emojione.com/)
 - [readme](https://github.com/guodongxiaren/README)
 - [gitignore](https://github.com/github/gitignore)
 - [git-cmd-train](https://try.github.io/levels/1/challenges/1)
