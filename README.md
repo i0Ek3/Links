@@ -35,6 +35,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Language](#Language)
 * [Logo](#Logo)
 * [Mac Things](#mac-things)
+* [Markdown](#markdown)
 * [Movie](#Movie)
 * [Music](#Music)
 * [Mirror List](#mirror-list)
@@ -127,6 +128,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Blog
 
+- [rongyi](https://rongyi.blog/) 这家伙估计是个天才！
 - [vitalik](https://vitalik.ca/)
 - [trevordmiller](https://trevordmiller.com) Awesome guy!
 - [sindresorhus](https://sindresorhus.com/) Awesome man, high quality coder.
@@ -495,6 +497,22 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
+## Markdown
+
+- [markdown intro](https://www.jianshu.com/p/20e82ddb37cb)
+- [Macdown](https://macdown.uranusjr.com) macOS中一直使用的。
+- [Notion](https://www.notion.so) 非常好用的跨平台的markdown文本编辑器，同步功能很好。
+- [cmdMarkdown](https://www.zybuluo.com/cmd/)
+- [stackedit](https://stackedit.io/)
+- [Mou](http://25.io/mou/)
+- [Math Formula Syntax](https://meta.wikimedia.org/wiki/Help:Displaying_a_formula)
+- [Markdown Plus](http://mdp.tylingsoft.com)
+- [LaTex](https://www.latex-project.org/get/)
+    - [Math Syntax for LaTex](http://mohu.org/info/symbols/symbols.html)
+    - [Office in LaTex](https://support.office.com/en-us/article/Linear-format-equations-using-UnicodeMath-and-LaTeX-in-Word-2e00618d-b1fd-49d8-8cb4-8d17f25754f8)    
+
+
+
 ## Movie
 
 - [www.bd-film.cc/](www.bd-film.cc/) 之前的又失效了，这个是新的。
@@ -612,16 +630,6 @@ Something in here are my collections for funny resource which includes Linux/Sec
     - [vim下配置c/c++](http://www.skywind.me/blog/archives/2084)
     - [vim-adventures](https://vim-adventures.com)
     - [coolshell-vim](https://coolshell.cn/articles/5426.html)
-- [markdown](https://www.jianshu.com/p/20e82ddb37cb)
-    - [cmdMarkdown](https://www.zybuluo.com/cmd/)
-    - [stackedit](https://stackedit.io/)
-    - [Macdown](https://macdown.uranusjr.com)
-    - [Mou](http://25.io/mou/)
-    - [Math Formula Syntax](https://meta.wikimedia.org/wiki/Help:Displaying_a_formula)
-    - [Markdown Plus](http://mdp.tylingsoft.com)
-- [LaTex](https://www.latex-project.org/get/)
-    - [Math Syntax for LaTex](http://mohu.org/info/symbols/symbols.html)
-    - [Office in LaTex](https://support.office.com/en-us/article/Linear-format-equations-using-UnicodeMath-and-LaTeX-in-Word-2e00618d-b1fd-49d8-8cb4-8d17f25754f8)    
 
 
 
