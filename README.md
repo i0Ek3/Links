@@ -4,48 +4,49 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 # Contents
 
-* [Algorithm](#Algorithm)
 * [Activate](#Activate)
+* [Algorithm](#Algorithm)
 * [Apps](#Apps)
 * [Blockchain](#Blockchain)
 * [Blog](#Blog)
 * [Black List](#black-list)
-* [Browser](#browser)
 * [Boot](#Boot)
 * [Book Community](#book-community)
-* [Cyber Security](#cyber-security)
+* [Browser](#browser)
 * [Code Online](#code-online)
 * [Complain](#Complain)
+* [Cyber Security](#cyber-security)
 * [Develop](#Develop)
 * [Dict](#dict)
 * [Download Tools](#download-tools)
 * [Ebook](#Ebook)
-* [Encrypt](#Encrypt)
 * [Emoji](#emoji)
+* [Encrypt](#Encrypt)
 * [Font](#Font)
 * [Good Books](#good-books)
 * [Github](#Github)
 * [Hosts](#Hosts)
 * [Icons](#Icons)
 * [IMEI](#imei)
+* [LaTex](#latex)
+* [Language](#Language)
 * [License](#License)
 * [Linux Kernel](#linux-kernel)
 * [Linux Sites](#linux-sites)
 * [Linux OS](#linux-os)
-* [Language](#Language)
 * [Logo](#Logo)
 * [Mac Things](#mac-things)
 * [Markdown](#markdown)
+* [Mirror List](#mirror-list)
 * [Movie](#Movie)
 * [Music](#Music)
-* [Mirror List](#mirror-list)
 * [Network](#Network)
 * [Navi](#navi)
 * [Online Editor](#online-editor)
+* [Picture](#Picture)
 * [Proxy](#Proxy)
 * [Programming Languages](#programming-languages)
 * [Project](#project)
-* [Picture](#Picture)
 * [Router](#Router)
 * [Security OS](#security-os)
 * [Search Engine](#search-engine)
@@ -391,6 +392,30 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
+## LaTex
+
+- [LaTex Official](https://www.latex-project.org/get/)
+- [Sharelatex](https://github.com/sharelatex/sharelatex)
+- [Texmaker](http://www.xm1math.net/texmaker/download.html)
+- [Tex resources](http://www.tug.org/interest.html#free)
+- [LaTex开源小屋](http://www.latexstudio.net/)
+- [LaTex学习](https://github.com/luongvo209/Begin-Latex-in-minutes/blob/master/Translation:Chinese.md)
+- [Math Syntax for LaTex](http://mohu.org/info/symbols/symbols.html)
+- [Office in LaTex](https://support.office.com/en-us/article/Linear-format-equations-using-UnicodeMath-and-LaTeX-in-Word-2e00618d-b1fd-49d8-8cb4-8d17f25754f8)    
+
+
+
+## Language
+
+- [20多种语言免费在线学习](https://www.loecsen.com/)
+- [Esperanto](https://lernu.net/en)
+- [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
+    - [可可英语语法](http://www.kekenet.com/grammar/)
+- Spanish
+    - [forvo](https://zh.forvo.com/languages/es/)
+
+
+
 ## Linux Kernel
 
 - [linux archive by bootlin](https://elixir.bootlin.com/linux/v4.18-rc3/source)
@@ -399,12 +424,6 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [LKML](https://lkml.org)
 - [kernel-doc](https://www.kernel.org/doc/html/latest/)
 - [内核之旅](http://www.kerneltravel.net)
-
-
-
-## Logo
-
-- [logomakr](https://logomakr.com/)
 
 
 
@@ -460,28 +479,9 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-## Language
+## Logo
 
-- [20多种语言免费在线学习](https://www.loecsen.com/)
-- [Esperanto](https://lernu.net/en)
-- [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
-    - [可可英语语法](http://www.kekenet.com/grammar/)
-- Spanish
-    - [forvo](https://zh.forvo.com/languages/es/)
-
-
-
-## Mirror List
-
-- [重庆大学](http://mirrors.cqu.edu.cn/)
-- [上交](http://ftp.sjtu.edu.cn/)
-- [北京交通大学](https://mirror.bjtu.edu.cn/)
-- [兰州大学](http://mirror.lzu.edu.cn/)
-- [网易163](http://mirrors.163.com/)
-- [cn99](http://mirrors.cn99.com/)
-- [东软](http://mirrors.neusoft.edu.cn/)
-- [中科大](https://mirrors.ustc.edu.cn/)
-- [清华大学](https://mirrors.tuna.tsinghua.edu.cn/)
+- [logomakr](https://logomakr.com/)
 
 
 
@@ -507,9 +507,20 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [Mou](http://25.io/mou/)
 - [Math Formula Syntax](https://meta.wikimedia.org/wiki/Help:Displaying_a_formula)
 - [Markdown Plus](http://mdp.tylingsoft.com)
-- [LaTex](https://www.latex-project.org/get/)
-    - [Math Syntax for LaTex](http://mohu.org/info/symbols/symbols.html)
-    - [Office in LaTex](https://support.office.com/en-us/article/Linear-format-equations-using-UnicodeMath-and-LaTeX-in-Word-2e00618d-b1fd-49d8-8cb4-8d17f25754f8)    
+
+
+
+## Mirror List
+
+- [重庆大学](http://mirrors.cqu.edu.cn/)
+- [上交](http://ftp.sjtu.edu.cn/)
+- [北京交通大学](https://mirror.bjtu.edu.cn/)
+- [兰州大学](http://mirror.lzu.edu.cn/)
+- [网易163](http://mirrors.163.com/)
+- [cn99](http://mirrors.cn99.com/)
+- [东软](http://mirrors.neusoft.edu.cn/)
+- [中科大](https://mirrors.ustc.edu.cn/)
+- [清华大学](https://mirrors.tuna.tsinghua.edu.cn/)
 
 
 
