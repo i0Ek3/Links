@@ -129,6 +129,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Blog
 
+- [犬‘s](https://www.fczbl.vip)
 - [rongyi](https://rongyi.blog/) 这家伙估计是个天才！
 - [vitalik](https://vitalik.ca/)
 - [trevordmiller](https://trevordmiller.com) Awesome guy!
@@ -322,6 +323,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Good Books
 
+- [Dart学习笔记](https://chai2010.cn/head-first-dart-book/)
 - [blockchain-tutorial](https://liuchengxu.gitbooks.io/blockchain-tutorial/content/)
 - [Node.js区块链开发](http://bitcoin-on-nodejs.ebookchain.org/)
 - [On Lisp](https://www.kancloud.cn/ituring/on-lisp/56192)
@@ -852,6 +854,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Windows Software
 
+- [awesome-windows](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us)
 - Windows Optimization
     - [@felixrieseberg:windows-development-environment](https://github.com/felixrieseberg/windows-development-environment) Windwos下开发环境部署。
     - [@szzhiyang:PerfectWindows](https://github.com/szzhiyang/PerfectWindows)
