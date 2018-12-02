@@ -394,16 +394,17 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-## LaTex
+## LaTeX
 
-- [LaTex Official](https://www.latex-project.org/get/)
+- [LaTeX Official](https://www.latex-project.org/get/)
 - [Sharelatex](https://github.com/sharelatex/sharelatex)
+- [LaTeX数学公式编辑器](https://zh.numberempire.com/latexequationeditor.php)
 - [Texmaker](http://www.xm1math.net/texmaker/download.html)
-- [Tex resources](http://www.tug.org/interest.html#free)
-- [LaTex开源小屋](http://www.latexstudio.net/)
-- [LaTex学习](https://github.com/luongvo209/Begin-Latex-in-minutes/blob/master/Translation:Chinese.md)
-- [Math Syntax for LaTex](http://mohu.org/info/symbols/symbols.html)
-- [Office in LaTex](https://support.office.com/en-us/article/Linear-format-equations-using-UnicodeMath-and-LaTeX-in-Word-2e00618d-b1fd-49d8-8cb4-8d17f25754f8)    
+- [TeX resources](http://www.tug.org/interest.html#free)
+- [LaTeX开源小屋](http://www.latexstudio.net/)
+- [LaTeX学习](https://github.com/luongvo209/Begin-Latex-in-minutes/blob/master/Translation:Chinese.md)
+- [Math Syntax for LaTeX](http://mohu.org/info/symbols/symbols.html)
+- [Office in LaTeX](https://support.office.com/en-us/article/Linear-format-equations-using-UnicodeMath-and-LaTeX-in-Word-2e00618d-b1fd-49d8-8cb4-8d17f25754f8)    
 
 
 
