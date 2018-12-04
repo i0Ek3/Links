@@ -55,6 +55,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Terminal](#terminal)
 * [Third ROM](#third-rom)
 * [Theme](#theme)
+* [Tool](Tool)
 * [Video Player](#video-player)
 * [Virtual](#Virtual)
 * [Windows OS Download](#windows-os-download)
@@ -649,6 +650,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Proxy
 
+- [V2ray](https://www.v2ray.com/)
 - [shadowsocks](https://portal.shadowsocks.nu/) 这是官方的shadowsocks，该链接一直在更换，如果打不开，请使用代理打开下面两个永久链接。
     - [permanent link1](https://shadowsocks.com)
     - [permanent link2](https://portal.shadowsocks.com)
@@ -820,6 +822,13 @@ Something in here are my collections for funny resource which includes Linux/Sec
 ## Theme
 
 - [monokai.pro](https://www.monokai.pro/)
+
+
+
+## Tool 
+
+- [数字帝国](https://zh.numberempire.com/) 多功能在线公式编辑器，好用。
+
 
 
 
