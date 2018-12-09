@@ -491,6 +491,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Mac Things
 
+- [hackintosh](https://zhih.me/hackintosh/#/)
 - [osxdaily](http://osxdaily.com/)
 - [OurMacs](https://ourmacs.com/zh-cn/)
 - [apple-download-center](https://developer.apple.com/download/more/)
@@ -506,6 +507,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [markdown intro](https://www.jianshu.com/p/20e82ddb37cb)
 - [Macdown](https://macdown.uranusjr.com) macOS中一直使用的。
 - [Notion](https://www.notion.so) 非常好用的跨平台的markdown文本编辑器，同步功能很好。
+- [Yu-writer](https://ivarptr.github.io/yu-writer.site/)
 - [cmdMarkdown](https://www.zybuluo.com/cmd/)
 - [stackedit](https://stackedit.io/)
 - [Mou](http://25.io/mou/)
@@ -538,7 +540,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [阳光电影](http://ygdy8.com)
 - [人人影视](http://www.yyets.com/)
 - [天天美剧](http://www.msj1.com/)
-- [六维空间](http://bt.neu6.edu.cn) IPv6 only!
+- [六维空间](http://bt.neu6.edu.cn) Ihttps://zhih.me/hackintosh/#/Pv6 only!
 
 
 
