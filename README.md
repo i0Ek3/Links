@@ -818,9 +818,9 @@ Something in here are my collections for funny resource which includes Linux/Sec
         - [Arrow](https://sourceforge.net/projects/arrow-os/files/arrow-9.x/bacon/)
         - tools
             - [toolallinone](https://toolaio.tk/download/)
-    - Nut Pro 2()
+    - Nut Pro 2(osborn)
         - [Nitrogen-by-PeterCxy](https://listed.standardnotes.org/@PeterCxy/2880/nitrogen-os-for-smartisan-u3-pro-osborn-nut-pro-2)
-
+        - [RADIO for osborn](https://androidfilehost.com/?fid=11410963190603863206)
 
 
 
