@@ -161,7 +161,6 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [小土刀](http://wdxtub.com/)
 - [老D](https://laod.cn/)
 - [我是菜鸟](https://imcn.me/)
-- [runoob](http://www.runoob.com)
 - [果冻](http://www.jellythink.com/)
 - [秋水逸冰](https://teddysun.com/)
 - [看到是缘 明白是福](http://truth.atspace.eu/)
@@ -263,11 +262,15 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Develop   
 
+- [runoob](http://www.runoob.com)
+- [Mozilla Developer](https://developer.mozilla.org/zh-CN/)
+- [IBM Developer](https://www.ibm.com/developerworks/cn/)
+- [腾讯发者手册](https://cloud.tencent.com/developer/doc/1023)
 - [Ubuntu Manapages](http://manpages.ubuntu.com/manpages/)
+- [w3school](http://www.w3school.com.cn/index.html)
 - 开发者速查表
     - [cn@justjavac](http://devhints.cn/)
     - [io@rstacruz](http://devhints.io/)
-- [腾讯发者手册](https://cloud.tencent.com/developer/doc/1023)
 - [asciinema](https://asciinema.org/)
 
 
@@ -287,7 +290,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 ## Donwload Tools
 
 - [transmissionbt](https://transmissionbt.com/)
-- [FDM]()
+- [FDM](https://www.freedownloadmanager.org)
 
 
 
@@ -600,6 +603,8 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [谷歌开源代码风格](http://zh-google-styleguide.readthedocs.io/en/latest/contents/)
 - [shell](http://www.freebuf.com/articles/system/147768.html)
     - [command-line-kung-fu](https://pen-testing.sans.org/blog/category/command-line-kung-fu)
+    - [shell utilities](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/contents.html)
+    - [bash-hackers](http://wiki.bash-hackers.org/start)
 - c/c++
     - [meetingcpp](https://www.meetingcpp.com/)
     - [isocpp](https://isocpp.org/)
@@ -821,6 +826,8 @@ Something in here are my collections for funny resource which includes Linux/Sec
     - Nut Pro 2(osborn)
         - [Nitrogen-by-PeterCxy](https://listed.standardnotes.org/@PeterCxy/2880/nitrogen-os-for-smartisan-u3-pro-osborn-nut-pro-2)
         - [RADIO for osborn](https://androidfilehost.com/?fid=11410963190603863206)
+        - [mokee for osborn](https://download.mokeedev.com/?device=osborn)
+
 
 
 
