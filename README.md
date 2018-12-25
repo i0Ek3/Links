@@ -327,6 +327,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Good Books
 
+- [机器学习笔记](https://clyyuanzi.gitbooks.io/julymlnotes/content/dl_rnn.html)
 - [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
 - [Dart学习笔记](https://chai2010.cn/head-first-dart-book/)
 - [blockchain-tutorial](https://liuchengxu.gitbooks.io/blockchain-tutorial/content/)
