@@ -130,6 +130,11 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Blog
 
+- [programthink](https://program-think.blogspot.com 'Recommend')
+- [evilcos](http://evilcos.me)
+- [阮一峰](http://www.ruanyifeng.com/blog/)
+- [酷壳](https://coolshell.cn)
+- [huihut](https://www.huihut.com/)
 - [犬‘s](https://www.fczbl.vip)
 - [rongyi](https://rongyi.blog/) 这家伙估计是个天才！
 - [vitalik](https://vitalik.ca/)
@@ -153,11 +158,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [zsythink](http://www.zsythink.net/archives/tag/awk/)
 - [方糖](http://ftqq.com/)
     - [方糖全栈课](https://quanzhanke.github.io)
-- [programthink](https://program-think.blogspot.com 'Recommend')
-- [阮一峰](http://www.ruanyifeng.com/blog/)
-- [酷壳](https://coolshell.cn)
 - [draveness](https://draveness.me/index)
-- [evilcos](http://evilcos.me)
 - [小土刀](http://wdxtub.com/)
 - [老D](https://laod.cn/)
 - [我是菜鸟](https://imcn.me/)
@@ -327,7 +328,8 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Good Books
 
-- [机器学习笔记](https://clyyuanzi.gitbooks.io/julymlnotes/content/dl_rnn.html)
+- [前端面试之道](https://yuchengkai.cn/docs/frontend/#%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B)
+- [Flutter in Action](https://book.flutterchina.club/)
 - [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
 - [Dart学习笔记](https://chai2010.cn/head-first-dart-book/)
 - [blockchain-tutorial](https://liuchengxu.gitbooks.io/blockchain-tutorial/content/)
@@ -342,6 +344,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [程序员跳槽全攻略](http://ftqq.com/程序员跳槽全攻略/README.adoc)
 - [greyhame](https://chrislinn.gitbooks.io/greyhame-2017/content/)
 - [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
+- [区块链工程师面试宝典](https://chrislinn.gitbooks.io/blockchain-cheatsheet/content/)
 - [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
 - [ES6](http://es6.ruanyifeng.com)
 
@@ -608,12 +611,15 @@ Something in here are my collections for funny resource which includes Linux/Sec
     - [shell utilities](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/contents.html)
     - [bash-hackers](http://wiki.bash-hackers.org/start)
 - c/c++
+    - [open-std](http://www.open-std.org/JTC1/SC22/WG21/)
     - [meetingcpp](https://www.meetingcpp.com/)
     - [isocpp](https://isocpp.org/)
     - [cppcon](https://cppcon.org/)
     - [en](http://en.cppreference.com/w/)
     - [zh](http://zh.cppreference.com/w/首页)
     - [cppEditorOnline](cpp.sh)
+    - [C standard library](https://en.wikipedia.org/wiki/C_standard_library)
+    - [C++ standard library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library)
 - [python](https://www.python.org)
     - [Python教程](http://pythonguidecn.readthedocs.io/zh/latest/)
     - [廖雪峰python3教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
