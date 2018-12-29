@@ -4,6 +4,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 # Contents
 
+* [AI](#ai)
 * [Activate](#Activate)
 * [Algorithm](#Algorithm)
 * [Apps](#Apps)
@@ -24,7 +25,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Encrypt](#Encrypt)
 * [Font](#Font)
 * [Good Books](#good-books)
-* [Github](#Github)
+* [Git](#Git)
 * [Hosts](#Hosts)
 * [Icons](#Icons)
 * [IMEI](#imei)
@@ -64,6 +65,16 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Other](#Other)
 
 
+
+
+## AI
+
+> Artificial intelligence is the future.
+
+- [fast.ai](https://course.fast.ai/)
+- [grakn.ai](https://grakn.ai/)
+- [openai](https://blog.openai.com/)
+- [deeplearning.ai](https://www.deeplearning.ai/)
 
 
 
@@ -218,6 +229,18 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Cyber Security
 
+- [Chrislinn.ink](https://chrislinn.ink)
+- [NaviSec.it](https://navisec.it/)
+- [NullSecurity](http://nullsecurity.net/)
+- [HellBoundHackers](https://www.hellboundhackers.org/)
+- [爱尖刀](http://www.ijiandao.com/)
+- [Sec-News](http://wiki.ioin.in/)
+- [SecWiki](https://sec-wiki.com/)
+- [Seebug](https://www.seebug.org/)
+- [MottoIN](http://www.mottoin.com/)
+- [漏洞银行](https://skills.bugbank.cn/)
+- [安全客](https://www.anquanke.com/opensource?page=1&g=%E5%85%A8%E9%83%A8)
+- [安全圈info](https://www.anquanquan.info/)
 - [腾讯玄武实验室](https://xlab.tencent.com/cn/)
 - [schneier](https://www.schneier.com/blog/archives/2015/07/hacking_team_is.html)
 - [GPG](https://www.gnupg.org/index.html)
@@ -350,8 +373,14 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-## Github
+## Git
 
+- [Gitlab](https://about.gitlab.com/)
+    - [https://docs.gitlab.com/runner/install/osx.html](https://docs.gitlab.com/runner/install/osx.html)
+    - [https://codebe.org/2017/12/02/how-to-install-gitlab-in-macos/](https://codebe.org/2017/12/02/how-to-install-gitlab-in-macos/)
+    - [https://www.heinventions.com/2018/07/14/install-gitlab-runner-on-macos/](https://www.heinventions.com/2018/07/14/install-gitlab-runner-on-macos/)
+- [Gitea](https://gitea.io/zh-cn/)
+- [Gitee](https://gitee.com/)
 - [hub](https://hub.github.com)
 - [legit](http://www.git-legit.org)
 - [shields](http://shields.io)
@@ -414,6 +443,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [LaTeX学习](https://github.com/luongvo209/Begin-Latex-in-minutes/blob/master/Translation:Chinese.md)
 - [Math Syntax for LaTeX](http://mohu.org/info/symbols/symbols.html)
 - [Office in LaTeX](https://support.office.com/en-us/article/Linear-format-equations-using-UnicodeMath-and-LaTeX-in-Word-2e00618d-b1fd-49d8-8cb4-8d17f25754f8)    
+- [Arbitrary LaTeX reference](http://latex.knobs-dials.com/)
 
 
 
@@ -554,6 +584,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Music
 
+- [QQmusic无限下载](http://music.mzz.pub/) 推荐，可下载收费音乐！
 - [voicer](http://www.voicer.me/?s=Mixtape)
 - [22tracks](http://22tracks.com/#!ams/starclub/36391)
 - [otohibi](http://www.otohibi.com)
