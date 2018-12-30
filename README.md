@@ -186,11 +186,12 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Browser
 
-- Firefox 大名鼎鼎，就不需要我贴地址了吧，不过注意区分国际和国内的地址，二者不一样的。
-- [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)
-- Chrome & Chromium 自己考虑吧，反正我是不会用了。
-- [Tor]()
+- [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) 用来替代Chromium的并去除google特性的隐私浏览器。
+- [Librefox](https://github.com/intika/Librefox) 用来替代Firefox的安全隐私浏览器。
 - [Vivaldi](https://vivaldi.com/zh-hans/download/) 一款高度可定制化浏览器。
+- [Tor](https://www.torproject.org/) 无需多言了吧？
+- Firefox 大名鼎鼎，就不需要我贴地址了吧，不过注意区分国际和国内的地址，二者不一样的。
+- Chrome & Chromium 自己考虑吧，反正我是不会用了。
 - [IRIDIUM](https://iridiumbrowser.de/) 一款德国品牌的浏览器。
 - [brave](https://brave.com/)
 - [breaker](https://beakerbrowser.com/)
@@ -313,6 +314,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Donwload Tools
 
+- [Motrix](https://motrix.app/) For mac users.
 - [transmissionbt](https://transmissionbt.com/)
 - [FDM](https://www.freedownloadmanager.org)
 
@@ -840,7 +842,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [Lineageos](https://download.lineageos.org)
     - [Lineageosrom](https://www.lineageosrom.com/)
     - [Cyanogenmods](https://www.cyanogenmods.org/)
-- [Unlegency Android Project](http://builds.unlegacy-android.org)
+- [Unlegency Android Project](http://builds.unlegacy-android.org)https://motrix.app/
 - [sailfish os](http://images.devaamo.fi)
 - [opengapps](https://opengapps.org)
 - devices
@@ -942,7 +944,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [老毛桃](https://www.laomaotao.net/)
 - [通用Pe](http://www.tongyongpe.com/)
 
-
+[Back Top](#links)
 
 
 
