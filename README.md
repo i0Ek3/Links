@@ -1,6 +1,7 @@
 # Links
 
-Something in here are my collections for funny resource which includes Linux/Security/Language/Movie/Music etc., I will update this resources all the time until I needn't this(impossible), just enjoy yourself.
+Something in here are my collections for daily use, which includes fully funny resources, maybe cross platform or not, enjoy it!
+
 
 # Contents
 
@@ -145,12 +146,14 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [evilcos](http://evilcos.me)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [酷壳](https://coolshell.cn)
+- [Mike Bostock](https://bost.ocks.org/mike/) 优质。
 - [huihut](https://www.huihut.com/)
 - [犬‘s](https://www.fczbl.vip)
+- [Moerats](https://www.moerats.com/) 该博主的博客集成了KMS服务器和Aria2下载器。
 - [rongyi](https://rongyi.blog/) 这家伙估计是个天才！
 - [vitalik](https://vitalik.ca/)
 - [trevordmiller](https://trevordmiller.com) Awesome guy!
-- [sindresorhus](https://sindresorhus.com/) Awesome man, high quality coder.
+- [sindresorhus](https://sindresorhus.com/) Awesome man, highly quality coder.
 - [phodal](https://www.phodal.com/)
 - [xia1ge](https://www.xia1ge.com/)
 - [James Routley](https://routley.io/)
@@ -206,7 +209,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [universalUsbInstaller](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)
 - [dd4win](http://www.chrysocome.net/dd)
 - [FireWolf](https://pe.firewolf.app/)
-- [Ether](https://etcher.io/)
+- [balenaEtcher](https://www.balena.io/etcher/)
 - [symless](https://symless.com/synergy)
 - [usbbootable](https://rufus.akeo.ie/)
 - [multibootusb](http://multibootusb.org/)
@@ -287,6 +290,8 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Develop   
 
+- [极客学院wiki](http://wiki.jikexueyuan.com)
+- [carbon](https://carbon-tddqqomaan.now.sh) 将源代码转换成漂亮的图片。
 - [runoob](http://www.runoob.com)
 - [Mozilla Developer](https://developer.mozilla.org/zh-CN/)
 - [IBM Developer](https://www.ibm.com/developerworks/cn/)
@@ -369,7 +374,6 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [程序员跳槽全攻略](http://ftqq.com/程序员跳槽全攻略/README.adoc)
 - [greyhame](https://chrislinn.gitbooks.io/greyhame-2017/content/)
 - [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
-- [区块链工程师面试宝典](https://chrislinn.gitbooks.io/blockchain-cheatsheet/content/)
 - [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
 - [ES6](http://es6.ruanyifeng.com)
 
@@ -454,7 +458,9 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [20多种语言免费在线学习](https://www.loecsen.com/)
 - [Esperanto](https://lernu.net/en)
 - [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
-    - [可可英语语法](http://www.kekenet.com/grammar/)
+- [An-English-Guide-for-Programmers](https://github.com/yujiangshui/An-English-Guide-for-Programmers)
+- [test-your-vocab](http://testyourvocab.com) 词汇量测试。
+- [可可英语语法](http://www.kekenet.com/grammar/)
 - Spanish
     - [forvo](https://zh.forvo.com/languages/es/)
 
@@ -660,6 +666,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
     - [go-lang.cat-v](http://go-lang.cat-v.org/)
     - [gowalker](https://gowalker.org/)
     - [go-tour](https://go-tour-zh.appspot.com/welcome/1)
+    - [go-by-example](https://books.studygolang.com/gobyexample/)
     - [the-way-to-go](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
     - [the-way-to-go-official](https://sites.google.com/site/thewaytogo2012/)
     - [go-fundamental-programming](https://github.com/Unknwon/go-fundamental-programming)
