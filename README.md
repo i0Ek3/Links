@@ -147,6 +147,7 @@ Something in here are my collections for daily use, which includes fully funny r
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [酷壳](https://coolshell.cn)
 - [Mike Bostock](https://bost.ocks.org/mike/) 优质。
+- [luo2888](http://luo2888.xyz)
 - [huihut](https://www.huihut.com/)
 - [犬‘s](https://www.fczbl.vip)
 - [Moerats](https://www.moerats.com/) 该博主的博客集成了KMS服务器和Aria2下载器。
@@ -479,6 +480,8 @@ Something in here are my collections for daily use, which includes fully funny r
 
 ## Linux Sites
 
+- [KDE store](https://store.kde.org)
+- [opendesktop](https://www.opendesktop.org)
 - [linuxjournal](https://www.linuxjournal.com/)
 - [薄荷开源网](http://www.mintos.org)
 - [开源工厂](https://openingsource.org/)
@@ -872,9 +875,11 @@ Something in here are my collections for daily use, which includes fully funny r
         - tools
             - [toolallinone](https://toolaio.tk/download/)
     - Nut Pro 2(osborn)
-        - [Nitrogen-by-PeterCxy](https://listed.standardnotes.org/@PeterCxy/2880/nitrogen-os-for-smartisan-u3-pro-osborn-nut-pro-2)
+        - [NitrogenOS-by-PeterCxy](https://listed.standardnotes.org/@PeterCxy/2880/nitrogen-os-for-smartisan-u3-pro-osborn-nut-pro-2)
+            - [China Telecom on Nut Pro2](https://listed.standardnotes.org/@PeterCxy/3501/pro-2-volte-alpha)
+            - [VoLTE flash zip](http://luo2888.xyz/post/25.html)
         - [RADIO for osborn](https://androidfilehost.com/?fid=11410963190603863206)
-        - [mokee for osborn](https://download.mokeedev.com/?device=osborn)
+        - [Mokee for osborn](https://download.mokeedev.com/?device=osborn)
 
 
 
