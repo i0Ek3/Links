@@ -46,6 +46,7 @@ Something in here are my collections for daily use, which includes fully funny r
 * [Navi](#navi)
 * [Online Editor](#online-editor)
 * [Picture](#Picture)
+* [Privacy](#privacy)
 * [Proxy](#Proxy)
 * [Programming Languages](#programming-languages)
 * [Project](#project)
@@ -642,6 +643,16 @@ Something in here are my collections for daily use, which includes fully funny r
 - [分流抢票](http://www.12306bypass.com/) Third client for 12306er.
 - [cn-data](https://github.com/cn)
 - [omnetpp](https://www.omnetpp.org/omnetpp) Simulate software.
+
+
+
+## Privacy
+
+- [www.privacytools.io](https://www.privacytools.io)
+- [dnsprivacy.org](https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Test+Servers)
+- [RestorePrivacy](https://restoreprivacy.com)
+- [prism-break](https://prism-break.org/en/)
+- [NoMoreGoogle](https://nomoregoogle.com/?ref=appinn)
 
 
 
