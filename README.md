@@ -29,6 +29,7 @@ Something in here are my collections for daily use, which includes fully funny r
 * [Git](#Git)
 * [Hosts](#Hosts)
 * [Icons](#Icons)
+* [IDE](#ide)
 * [IMEI](#imei)
 * [LaTex](#latex)
 * [Language](#Language)
@@ -82,6 +83,7 @@ Something in here are my collections for daily use, which includes fully funny r
 
 ## Algorithm
 
+- [The Coding Interview Blog](http://www.interviewdruid.com)
 - [oi-wiki](https://oi-wiki.org/)
 - [编程之法](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/)
 - [hiredintech](https://www.hiredintech.com/courses)
@@ -192,6 +194,7 @@ Something in here are my collections for daily use, which includes fully funny r
 ## Browser
 
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) 用来替代Chromium的并去除google特性的隐私浏览器。
+    - [ungoogled=chromium-builds](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
 - [Librefox](https://github.com/intika/Librefox) 用来替代Firefox的安全隐私浏览器。
 - [Vivaldi](https://vivaldi.com/zh-hans/download/) 一款高度可定制化浏览器。
 - [Tor](https://www.torproject.org/) 无需多言了吧？
@@ -235,6 +238,7 @@ Something in here are my collections for daily use, which includes fully funny r
 
 ## Cyber Security
 
+- [Have I been pwned?](https://haveibeenpwned.com)
 - [Chrislinn.ink](https://chrislinn.ink)
 - [NaviSec.it](https://navisec.it/)
 - [NullSecurity](http://nullsecurity.net/)
@@ -433,6 +437,12 @@ Something in here are my collections for daily use, which includes fully funny r
 
 
 
+## IDE
+
+- [Qt](http://download.qt.io/official_releases/qt/)
+
+
+
 ## IMEI
 
 * [numberingp](https://www.numberingplans.com/?page=analysis&sub=imeinr)
@@ -481,6 +491,7 @@ Something in here are my collections for daily use, which includes fully funny r
 
 ## Linux Sites
 
+- [linuxde](http://man.linuxde.net/)
 - [KDE store](https://store.kde.org)
 - [opendesktop](https://www.opendesktop.org)
 - [linuxjournal](https://www.linuxjournal.com/)
@@ -863,7 +874,7 @@ Something in here are my collections for daily use, which includes fully funny r
 - [Lineageos](https://download.lineageos.org)
     - [Lineageosrom](https://www.lineageosrom.com/)
     - [Cyanogenmods](https://www.cyanogenmods.org/)
-- [Unlegency Android Project](http://builds.unlegacy-android.org)https://motrix.app/
+- [Unlegency Android Project](http://builds.unlegacy-android.org)
 - [sailfish os](http://images.devaamo.fi)
 - [opengapps](https://opengapps.org)
 - devices
@@ -941,6 +952,9 @@ Something in here are my collections for daily use, which includes fully funny r
 ## Windows Software
 
 - [awesome-windows](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us)
+- [PortableApps](https://portableapps.com)
+- []()
+- []()
 - Windows Optimization
     - [@felixrieseberg:windows-development-environment](https://github.com/felixrieseberg/windows-development-environment) Windwos下开发环境部署。
     - [@szzhiyang:PerfectWindows](https://github.com/szzhiyang/PerfectWindows)
