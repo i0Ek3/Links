@@ -301,6 +301,7 @@ Something in here are my collections for daily use, which includes fully funny r
 - [runoob](http://www.runoob.com)
 - [Mozilla Developer](https://developer.mozilla.org/zh-CN/)
 - [IBM Developer](https://www.ibm.com/developerworks/cn/)
+- [阿里云文档](https://www.alibabacloud.com/help/zh?spm=a2c63.p38356.a1.1.16e973e2oHMppo)
 - [腾讯发者手册](https://cloud.tencent.com/developer/doc/1023)
 - [Ubuntu Manapages](http://manpages.ubuntu.com/manpages/)
 - [w3school](http://www.w3school.com.cn/index.html)
@@ -598,10 +599,11 @@ Something in here are my collections for daily use, which includes fully funny r
 - ~~[bd-film](http://www.bd-film.co/)~~
 - [bt0](http://bt0.com/) 网站有改版哦！
 - [rarbg](https://rarbg.is/torrents.php)
+- [字幕组](http://www.zimuzu.io)
 - [阳光电影](http://ygdy8.com)
 - [人人影视](http://www.yyets.com/)
 - [天天美剧](http://www.msj1.com/)
-- [六维空间](http://bt.neu6.edu.cn) Ihttps://zhih.me/hackintosh/#/Pv6 only!
+- [六维空间](http://bt.neu6.edu.cn) 
 
 
 
@@ -953,7 +955,7 @@ Something in here are my collections for daily use, which includes fully funny r
 
 - [awesome-windows](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us)
 - [PortableApps](https://portableapps.com)
-- []()
+- [Apprcn](http://www.apprcn.com)
 - []()
 - Windows Optimization
     - [@felixrieseberg:windows-development-environment](https://github.com/felixrieseberg/windows-development-environment) Windwos下开发环境部署。
