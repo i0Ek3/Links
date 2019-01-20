@@ -1,6 +1,6 @@
 # Links
 
-Something in here are my collections for daily use, which includes fully funny resources, maybe cross platform or not, enjoy it!
+这里作为个人日常资源收集与整理的站点，当然方便自己的同时也方便他人。有些内容还是很乱，慢慢调整与整理吧，毕竟，我们的精力有限，做那些更有意义的事情吧！
 
 
 # Contents
