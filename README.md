@@ -163,6 +163,8 @@
 - [James Routley](https://routley.io/)
 - [crossoverjie.top](https://crossoverjie.top/)
 - [鸟窝](https://colobu.com/)
+- [荒岛](https://lala.im)
+- [炸帮裂梦乐团](https://home.bangdream.space)
 - [wateroot](https://blog.wateroot.com/)
 - [崔庆才](https://cuiqingcai.com/)
 - [小弟调调TM](http://wangchujiang.com/)
@@ -309,6 +311,7 @@
     - [cn@justjavac](http://devhints.cn/)
     - [io@rstacruz](http://devhints.io/)
 - [asciinema](https://asciinema.org/)
+- [IPLeak](https://ipleak.net/)
 
 
 
@@ -367,7 +370,7 @@
 
 - [前端面试之道](https://yuchengkai.cn/docs/frontend/#%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B)
 - [Flutter in Action](https://book.flutterchina.club/)
-- [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
+- ~[Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)~
 - [Dart学习笔记](https://chai2010.cn/head-first-dart-book/)
 - [blockchain-tutorial](https://liuchengxu.gitbooks.io/blockchain-tutorial/content/)
 - [Node.js区块链开发](http://bitcoin-on-nodejs.ebookchain.org/)
@@ -405,6 +408,10 @@
     * [图解git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
     * [git-guide](http://rogerdudler.github.io/git-guide/index.zh.html)
     * [git-cheat-sheet](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf)
+    * Configure fork sync
+        * [configure-and-syncing](https://blog.csdn.net/qq1332479771/article/details/56087333)
+        * [Github Help-configure](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+        * [Github Help-syncing](https://help.github.com/articles/syncing-a-fork/)
 - Client
     * [Tower](https://www.git-tower.com/)
     * [sourcetreeapp](https://www.sourcetreeapp.com/)
@@ -560,7 +567,9 @@
 - [objective-see](https://objective-see.com/index.html)
 - [malwarebytes4mac](https://www.malwarebytes.com)
 - [xclient](http://xclient.info/?t=680034e137bc7cc9b41bad81241e03e932425016) 当然，大家有经济能力的还是推荐购买正版，毕竟盗版的谁也说不准是否会有后门什么的。
+- [waitsun](https://www.waitsun.com)
 - [packal for alfred](http://www.packal.org/)
+- [eZip](https://ezip.awehunt.com) 非常好用的且免费的mac平台解压工具，功能齐全。
 
 
 
@@ -953,7 +962,8 @@
 
 ## Windows Software
 
-- [awesome-windows](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us)
+- [Awesome-windows-gitbook](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us)
+- [Awesome-windows](https://github.com/Awesome-Windows/Awesome)
 - [PortableApps](https://portableapps.com)
 - [Apprcn](http://www.apprcn.com)
 - []()
