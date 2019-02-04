@@ -83,6 +83,7 @@
 
 ## Algorithm
 
+- [algorithm-excerise](https://algorithm.yuanbin.me/zh-hans/)
 - [The Coding Interview Blog](http://www.interviewdruid.com)
 - [oi-wiki](https://oi-wiki.org/)
 - [编程之法](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/)
@@ -368,6 +369,7 @@
 
 ## Good Books
 
+- [be-a-professional-programmer](https://thonatos.gitbooks.io/be-a-professional-programmer/)
 - [前端面试之道](https://yuchengkai.cn/docs/frontend/#%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B)
 - [Flutter in Action](https://book.flutterchina.club/)
 - ~[Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)~
@@ -575,6 +577,7 @@
 
 ## Markdown
 
+- [GitNote](https://gitnoteapp.com)
 - [markdown intro](https://www.jianshu.com/p/20e82ddb37cb)
 - [Macdown](https://macdown.uranusjr.com) macOS中一直使用的。
 - [Notion](https://www.notion.so) 非常好用的跨平台的markdown文本编辑器，同步功能很好。
@@ -896,7 +899,6 @@
             - [cn](https://www.miui.com/download-337.html)
             - [pl](https://miuipolska.pl/download/)
             - [eu](https://jaist.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/)
-        - [epicrom](http://www.epicrom.pro/)
         - [LOS](https://download.lineageos.org/chiron)
         - [MOKEE](https://download.mokeedev.com/?device=chiron)
         - [Nitrogen](http://cergo666.tk/wight554/)
