@@ -2,6 +2,8 @@
 
 这里作为个人日常资源收集与整理的站点，当然方便自己的同时也方便他人。有些内容还是很乱，慢慢调整与整理吧，毕竟，我们的精力有限，做那些更有意义的事情吧！
 
+当然，GitHub 上还有很多优秀的项目，他们也列出了一些常用并且有趣和有用的链接，欢迎前去访问。比如[https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)，[https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)和[https://github.com/programthink/sites](https://github.com/programthink/sites)等等，欢迎挖掘！
+
 
 # Contents
 
@@ -369,6 +371,7 @@
 
 ## Good Books
 
+- [猎头麦的宝书](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/) 一本关于求职面试的不可多得的小书。
 - [be-a-professional-programmer](https://thonatos.gitbooks.io/be-a-professional-programmer/)
 - [前端面试之道](https://yuchengkai.cn/docs/frontend/#%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B)
 - [Flutter in Action](https://book.flutterchina.club/)
@@ -745,7 +748,7 @@
 ## Proxy
 
 - [V2ray](https://www.v2ray.com/)
-- [shadowsocks](https://portal.shadowsocks.nu/) 这是官方的shadowsocks，该链接一直在更换，如果打不开，请使用代理打开下面两个永久链接。
+- [shadowsocks](https://secure.shadowsocks.nu) 这是官方的shadowsocks，该链接一直在更换，如果打不开，请使用代理打开下面两个永久链接。
     - [permanent link1](https://shadowsocks.com)
     - [permanent link2](https://portal.shadowsocks.com)
 - [shadowsocks.be](https://shadowsocks.be/) 非官方shadowsocks。
