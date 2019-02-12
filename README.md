@@ -396,6 +396,7 @@
 
 ## Git
 
+- [Git-LFS](https://www.atlassian.com/git/tutorials/git-lfs)
 - [Gitlab](https://about.gitlab.com/)
     - [https://docs.gitlab.com/runner/install/osx.html](https://docs.gitlab.com/runner/install/osx.html)
     - [https://codebe.org/2017/12/02/how-to-install-gitlab-in-macos/](https://codebe.org/2017/12/02/how-to-install-gitlab-in-macos/)
@@ -900,6 +901,7 @@
         - MIUI
             - [en](https://en.miui.com/download-334.html)
             - [cn](https://www.miui.com/download-337.html)
+            - [cn-fastboot](http://www.miui.com/shuaji-393.html)
             - [pl](https://miuipolska.pl/download/)
             - [eu](https://jaist.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/)
         - [LOS](https://download.lineageos.org/chiron)
