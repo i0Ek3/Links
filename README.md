@@ -23,6 +23,7 @@
 * [Develop](#Develop)
 * [Dict](#dict)
 * [Download Tools](#download-tools)
+* [Draw](#draw)
 * [Ebook](#Ebook)
 * [Emoji](#emoji)
 * [Encrypt](#Encrypt)
@@ -283,13 +284,10 @@
 
 ## Code Online
 
-- [W3school-cn](http://www.w3school.com.cn/)
-- [W3school](https://www.w3schools.com/)
 - [wide](https://wide.b3log.org/login)
 - [webassembly](https://webassembly.studio)
 - [codingame](https://www.codingame.com/home)
 - [rails365](https://www.rails365.net)
-- [源码共读](https://ymgd.github.io/codereader/tag/)
 - [实验楼](https://www.shiyanlou.com/)
 - [慕课网](https://www.imooc.com/)
 - [i春秋](https://www.ichunqiu.com/)
@@ -299,8 +297,10 @@
 
 
 
-## Develop   
+## Develop
 
+- [W3school-cn](http://www.w3school.com.cn/)
+- [W3school](https://www.w3schools.com/)
 - [极客学院wiki](http://wiki.jikexueyuan.com)
 - [carbon](https://carbon-tddqqomaan.now.sh) 将源代码转换成漂亮的图片。
 - [runoob](http://www.runoob.com)
@@ -338,6 +338,13 @@
 
 
 
+## Draw
+
+- [whimsical](https://whimsical.co)
+- [draw.io](https://www.draw.io)
+
+
+
 ## Encrypt
 
 - [Veracrypt](https://www.veracrypt.fr/en/Downloads.html)
@@ -371,7 +378,7 @@
 
 ## Good Books
 
-- [猎头麦的宝书](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/) 一本关于求职面试的不可多得的小书。
+- [猎头麦的宝书](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/) 一本关于求职面试的不可多得的小书。推荐！
 - [be-a-professional-programmer](https://thonatos.gitbooks.io/be-a-professional-programmer/)
 - [前端面试之道](https://yuchengkai.cn/docs/frontend/#%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B)
 - [Flutter in Action](https://book.flutterchina.club/)
@@ -776,7 +783,6 @@
 
 
 
-
 ## Picture
 
 - [octodex](https://octodex.github.com)
@@ -932,8 +938,8 @@
 
 ## Tool 
 
+- [draw.io](https://www.draw.io)
 - [数字帝国](https://zh.numberempire.com/) 多功能在线公式编辑器，好用。
-
 
 
 
@@ -941,10 +947,6 @@
 
 - [VMWare]()
 - [Virtual Box]()
-- []()
-- []()
-
-
 
 
 
@@ -953,8 +955,6 @@
 - [mpv](https://mpv.io/)
 - [vlc](https://www.videolan.org/vlc/)
 - [iina](https://lhc70000.github.io/iina/)
-- []()
-
 
 
 
@@ -973,12 +973,10 @@
 - [Awesome-windows](https://github.com/Awesome-Windows/Awesome)
 - [PortableApps](https://portableapps.com)
 - [Apprcn](http://www.apprcn.com)
-- []()
 - Windows Optimization
     - [@felixrieseberg:windows-development-environment](https://github.com/felixrieseberg/windows-development-environment) Windwos下开发环境部署。
     - [@szzhiyang:PerfectWindows](https://github.com/szzhiyang/PerfectWindows)
     - [@adolfintel:Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) Windows10高度精简。
-    - []()
 - [chocolatey](https://chocolatey.org)
 - [scoop](https://scoop.sh/)
 - [Babun](https://github.com/babun/babun) 一款Shell。
@@ -988,8 +986,6 @@
     - [WoeUSB](https://github.com/slacka/WoeUSB)
     - [Multibootusb](https://github.com/mbusb/multibootusb)
 - [sudo for Windows](https://github.com/mattn/sudo)
-- []()
-- []()
 
 
 
