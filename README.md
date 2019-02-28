@@ -378,6 +378,7 @@
 
 ## Good Books
 
+- [Mircro8](https://micro8.gitbook.io/micro8/)
 - [猎头麦的宝书](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/) 一本关于求职面试的不可多得的小书。推荐！
 - [be-a-professional-programmer](https://thonatos.gitbooks.io/be-a-professional-programmer/)
 - [前端面试之道](https://yuchengkai.cn/docs/frontend/#%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B)
@@ -421,6 +422,8 @@
     * [图解git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
     * [git-guide](http://rogerdudler.github.io/git-guide/index.zh.html)
     * [git-cheat-sheet](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf)
+    * [猴子都能懂的 Git 入门](https://backlog.com/git-tutorial/cn/reference/)
+    * [git-scm](https://git-scm.com/book/zh/v1/起步)
     * Configure fork sync
         * [configure-and-syncing](https://blog.csdn.net/qq1332479771/article/details/56087333)
         * [Github Help-configure](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
@@ -573,6 +576,7 @@
 
 ## Mac Things
 
+- [gofans.cn](https://gofans.cn/?fr=xc)
 - [hackintosh](https://zhih.me/hackintosh/#/)
 - [osxdaily](http://osxdaily.com/)
 - [OurMacs](https://ourmacs.com/zh-cn/)
@@ -749,7 +753,8 @@
 - [vim](https://www.vim.org)
     - [vim下配置c/c++](http://www.skywind.me/blog/archives/2084)
     - [vim-adventures](https://vim-adventures.com)
-    - [coolshell-vim](https://coolshell.cn/articles/5426.html)
+    - [coolshell-vim](https://coolshell.cn/articles/5426.html) 这个也是很常用的，也很不错。
+    - [vim 基础入门](https://www.jianshu.com/p/bcbe916f97e1) 很好很全面的文章，我的 vim 功力又上升了一个等级。
 
 
 
@@ -817,6 +822,7 @@
 
 ## Sites
 
+- [hacknical](https://hacknical.com) Github 可视化分析。
 - [9to5google](https://9to5google.com/)
 - [restoreprivacy](https://restoreprivacy.com/)
 - [steemit](https://steemit.com/)
@@ -981,6 +987,8 @@
 - [scoop](https://scoop.sh/)
 - [Babun](https://github.com/babun/babun) 一款Shell。
 - [wox](http://www.wox.one) 类似mac下的Alfreld。
+- [Everything](https://www.voidtools.com/downloads/) 查找工具。
+- [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
 - [speedcrunch](http://www.speedcrunch.org/) 计算器。
 - boot
     - [WoeUSB](https://github.com/slacka/WoeUSB)
