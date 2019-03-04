@@ -17,6 +17,7 @@
 * [Boot](#Boot)
 * [Book Community](#book-community)
 * [Browser](#browser)
+* [Buy](#buy)
 * [Code Online](#code-online)
 * [Complain](#Complain)
 * [Cyber Security](#cyber-security)
@@ -235,6 +236,23 @@
 
 
 
+## Buy
+
+> 主要是海淘。
+
+- [值得海淘](https://www.zdhaitao.com/index.php) 我一直在用的转运公司，不是广告哈！
+- [什么值得买](https://www.smzdm.com)
+- [DealMoon](https://www.dealmoon.com)
+- [Levi's](https://www.levi.com/NL/nl_NL/)
+- [The Hut](https://www.thehut.com)
+- [Foot Locker](https://www.footlocker.co.uk/en/homepage) 据说是最好的买鞋的地方。
+- [6PM](https://www.6pm.com) 之前在这里买过李维斯的外套，质量很好，价格便宜，但是尺寸选错了，大家注意尺寸。
+- [Joe's NewBalance](https://www.joesnewbalanceoutlet.com) 很优惠的价格，可以尝试。
+- [BestBuy](https://www.bestbuy.com) 人们常说的百思买。
+- [知乎：海淘购物网站有哪些？](https://www.zhihu.com/question/24824823)
+
+
+
 ## Complain
 
 - [工信部申诉](http://www.chinatcc.gov.cn:8080/cms/shensus/)
@@ -378,6 +396,7 @@
 
 ## Good Books
 
+- [CTF All in One](https://firmianay.gitbooks.io/ctf-all-in-one/content/)
 - [Mircro8](https://micro8.gitbook.io/micro8/)
 - [猎头麦的宝书](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/) 一本关于求职面试的不可多得的小书。推荐！
 - [be-a-professional-programmer](https://thonatos.gitbooks.io/be-a-professional-programmer/)
