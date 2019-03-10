@@ -396,6 +396,10 @@
 
 ## Good Books
 
+- [Effective Modern Cpp](https://www.kancloud.cn/kangdandan/book/169966)
+- [面向对象葵花宝典](https://www.kancloud.cn/yunhua_lee/oobaodian/110892)
+- [C++ 11 新特性](https://www.kancloud.cn/wangshubo1989/new-characteristics/99704)
+- [Real World Haskell](http://cnhaskell.com)
 - [CTF All in One](https://firmianay.gitbooks.io/ctf-all-in-one/content/)
 - [Mircro8](https://micro8.gitbook.io/micro8/)
 - [猎头麦的宝书](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/) 一本关于求职面试的不可多得的小书。推荐！
@@ -595,6 +599,7 @@
 
 ## Mac Things
 
+- [Mac OS 之程序员](https://www.kancloud.cn/chandler/mac_os)
 - [gofans.cn](https://gofans.cn/?fr=xc)
 - [hackintosh](https://zhih.me/hackintosh/#/)
 - [osxdaily](http://osxdaily.com/)
