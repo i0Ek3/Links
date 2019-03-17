@@ -104,8 +104,10 @@
 
 ## Activate
 
+- [JetBrains Crack](http://idea.lanyus.com/)
 - [Free JetBrains License Servers](http://xidea.online) **推荐**
 - [Windows&Office Activate](https://cangshui.net/?page_id=1531)
+- [Vmware Fusion Pro](https://appnee.com/vmware-fusion-pro-all-versions-universal-license-keys/)
 
 
 
@@ -154,8 +156,10 @@
 - [evilcos](http://evilcos.me)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [酷壳](https://coolshell.cn)
+- [有赞技术团队](https://tech.youzan.com)
 - [Mike Bostock](https://bost.ocks.org/mike/) 优质。
 - [luo2888](http://luo2888.xyz)
+- [halfrost](https://halfrost.com/author/halfrost/)
 - [huihut](https://www.huihut.com/)
 - [犬‘s](https://www.fczbl.vip)
 - [Moerats](https://www.moerats.com/) 该博主的博客集成了KMS服务器和Aria2下载器。
@@ -175,8 +179,7 @@
 - [小弟调调TM](http://wangchujiang.com/)
 - [readhub](https://readhub.me)
 - [hacpai](https://hacpai.com/)
-- [fuckyhuawei](https://funkyhuawei.club/)
-- [linteng.wang](http://www.linteng.wang 'My grad classmate!He is really awesome!~')
+- [linteng.wang](http://www.linteng.wang) My grad classmate! He is really awesome!
 - [Jerry Qu](https://imququ.com)
 - [skywind](http://www.skywind.me/blog/)
 - [chybeta](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
@@ -396,6 +399,10 @@
 
 ## Good Books
 
+- [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/)
+- [Python Book](https://www.kancloud.cn/hiyang/python/282893)
+- [Linux 工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)
+- [STL 源码分析](https://www.kancloud.cn/digest/mystl/192545)
 - [Effective Modern Cpp](https://www.kancloud.cn/kangdandan/book/169966)
 - [面向对象葵花宝典](https://www.kancloud.cn/yunhua_lee/oobaodian/110892)
 - [C++ 11 新特性](https://www.kancloud.cn/wangshubo1989/new-characteristics/99704)
