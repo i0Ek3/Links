@@ -47,8 +47,9 @@
 * [Mirror List](#mirror-list)
 * [Movie](#Movie)
 * [Music](#Music)
-* [Network](#Network)
 * [Navi](#navi)
+* [Network](#Network)
+* [News](#news)
 * [Online Editor](#online-editor)
 * [Picture](#Picture)
 * [Privacy](#privacy)
@@ -56,9 +57,11 @@
 * [Programming Languages](#programming-languages)
 * [Project](#project)
 * [Router](#Router)
+* [Script](#script)
 * [Security OS](#security-os)
 * [Search Engine](#search-engine)
 * [Sites](#Sites)
+* [Shell](#shell)
 * [Speed Test](#speed-test)
 * [Terminal](#terminal)
 * [Third ROM](#third-rom)
@@ -70,7 +73,6 @@
 * [Windows Software](#windows-software)
 * [WinPE](#winpe)
 * [Other](#Other)
-
 
 
 
@@ -114,8 +116,6 @@
 ## Apps
 
 * [electronapps](https://electronjs.org/apps)
-
-
 
 
 
@@ -320,6 +320,7 @@
 
 ## Develop
 
+- [在线工具](http://tool.oschina.net)
 - [W3school-cn](http://www.w3school.com.cn/)
 - [W3school](https://www.w3schools.com/)
 - [极客学院wiki](http://wiki.jikexueyuan.com)
@@ -375,6 +376,8 @@
 ## Ebook
 
 - [bestcbook](http://bestcbooks.com/) 大多数电子书籍较旧，但是不影响我们吸收营养。
+- [苦瓜书盘](https://www.kgbook.com)
+- [ireadweek](http://www.ireadweek.com/index.php/Index/index.html)
 
 
 
@@ -545,6 +548,8 @@
 
 ## Linux Sites
 
+- [GNU](https://www.gnu.org)
+- [fosslinux](http://www.fosslinux.com)
 - [linuxde](http://man.linuxde.net/)
 - [KDE store](https://store.kde.org)
 - [opendesktop](https://www.opendesktop.org)
@@ -552,7 +557,6 @@
 - [薄荷开源网](http://www.mintos.org)
 - [开源工厂](https://openingsource.org/)
 - [kernelmirror](https://mirrors.kernel.org)
-- [fosslinux](http://www.fosslinux.com)
 - [easylinuxtipsproject](https://sites.google.com/site/easylinuxtipsproject/)
 - [deepin-pkg](http://packages.deepin.com/deepin/pool/non-free/d/)
 - [Snapcraft](https://snapcraft.io/)
@@ -576,6 +580,7 @@
 
 ## Linux OS
 
+- [GNU/Linux](https://www.gnu.org/distros/free-distros.html)
 - [Ubuntu](https://www.ubuntu.com/download/desktop)
 - [Neon KDE](https://neon.kde.org/)
 - [Zorin OS](https://zorinos.com/)
@@ -652,6 +657,9 @@
 
 ## Movie
 
+- [ProxyBay](https://proxybay.github.io)
+- [BTurl](https://www.bturl.pw)
+- [BTmimi](https://www.btmimi.com)
 - [www.bd-film.cc/](www.bd-film.cc/) 之前的又失效了，这个是新的。
 - ~~[bd-film](https://www.bdys.co) 原链接失效，新的网站垃圾广告多多。~~
 - ~~[bd-film](http://www.bd-film.co/)~~
@@ -667,6 +675,7 @@
 
 ## Music
 
+- [搜你妹](http://music.sonimei.cn)
 - [QQmusic无限下载](http://music.mzz.pub/) 推荐，可下载收费音乐！
 - [voicer](http://www.voicer.me/?s=Mixtape)
 - [22tracks](http://22tracks.com/#!ams/starclub/36391)
@@ -692,6 +701,17 @@
 - [prism-break](https://prism-break.org/)
 - [I2P](https://geti2p.net/zh/)
 - [Tor](https://www.torproject.org/)
+
+
+
+## News
+
+- [tophub](https://tophub.today)
+- [devurls](https://devurls.com)
+- [readspike(https://readspike.com)
+- [readhub](https://readhub.cn)
+- [solidot](https://www.solidot.org/)
+- [HackerNews](https://news.ycombinator.com)
 
 
 
@@ -792,7 +812,7 @@
 ## Proxy
 
 - [V2ray](https://www.v2ray.com/)
-- [shadowsocks](https://secure.shadowsocks.nu) 这是官方的shadowsocks，该链接一直在更换，如果打不开，请使用代理打开下面两个永久链接。
+- [shadowsocks](https://secure.shadowsocks.ch) 这是官方的shadowsocks，该链接一直在更换，如果打不开，请使用代理打开下面两个永久链接。
     - [permanent link1](https://shadowsocks.com)
     - [permanent link2](https://portal.shadowsocks.com)
 - [shadowsocks.be](https://shadowsocks.be/) 非官方shadowsocks。
@@ -833,6 +853,14 @@
 
 
 
+## Script
+
+- [油猴脚本推荐](https://www.runningcheese.com/userscripts)
+- [GeekFork](https://greasyfork.org/zh-CN)
+- [openuserjs](https://openuserjs.org)
+
+
+
 ## Search Engine
 
 - [qwant](https://www.qwant.com/)
@@ -850,6 +878,15 @@
 - [Shodan](https://shodan.io)
 
 
+## Shell
+
+- [shellcheck](https://www.shellcheck.net)
+- [commandlinefu](https://www.commandlinefu.com/commands/browse)
+- [shell-fu](http://www.shell-fu.org)
+- [bashoneliners](http://www.bashoneliners.com)
+- [explainshell](https://www.explainshell.com)
+
+
 
 ## Sites
 
@@ -857,7 +894,6 @@
 - [9to5google](https://9to5google.com/)
 - [restoreprivacy](https://restoreprivacy.com/)
 - [steemit](https://steemit.com/)
-- [Solidot](https://www.solidot.org/)
 - [tiobe](https://www.tiobe.com/)
 - [openhub](https://www.openhub.net/)
 - [InfoQ](https://www.infoq.com/)
@@ -881,8 +917,6 @@
 - [CSDN极客头条](http://geek.csdn.net)
 - [开发者头条](https://toutiao.io/)
 - [开源中国](https://www.oschina.net/)
-- [READHUB](https://readhub.me/)
-- [ibm](https://www.ibm.com/developerworks/cn/)
 - [小众软件](https://www.appinn.com)
 - [MSDN](https://msdn.itellyou.cn/)
 - [萝卜头](http://bbs.luobotou.org/)
@@ -933,23 +967,17 @@
 - [AICP](http://dwnld.aicp-rom.com/)
 - [Mokee](https://download.mokeedev.com)
 - [Lineageos](https://download.lineageos.org)
-    - [Lineageosrom](https://www.lineageosrom.com/)
-    - [Cyanogenmods](https://www.cyanogenmods.org/)
 - [Unlegency Android Project](http://builds.unlegacy-android.org)
 - [sailfish os](http://images.devaamo.fi)
 - [opengapps](https://opengapps.org)
 - devices
     - Xiaomi Mix2(chiron)
-        - [mimix2builds](https://funkyhuawei.club/mimix2builds)
         - MIUI
+            - [eu](https://jaist.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/)
             - [en](https://en.miui.com/download-334.html)
             - [cn](https://www.miui.com/download-337.html)
             - [cn-fastboot](http://www.miui.com/shuaji-393.html)
             - [pl](https://miuipolska.pl/download/)
-            - [eu](https://jaist.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/)
-        - [LOS](https://download.lineageos.org/chiron)
-        - [MOKEE](https://download.mokeedev.com/?device=chiron)
-        - [Nitrogen](http://cergo666.tk/wight554/)
         - [9.0](https://androidfilehost.com/?w=files&flid=282986)
     - Oneplus One(bacon)
         - [Oreo](https://forum.xda-developers.com/oneplus-one/orig-development/rom-aosp-oreo-oneplus-one-t3666741)
@@ -963,7 +991,9 @@
             - [VoLTE flash zip](http://luo2888.xyz/post/25.html)
         - [RADIO for osborn](https://androidfilehost.com/?fid=11410963190603863206)
         - [Mokee for osborn](https://download.mokeedev.com/?device=osborn)
-
+- Recovery
+    - [orangefox](https://orangefox.tech)
+    - [twrp.me](https://twrp.me)
 
 
 
@@ -977,6 +1007,19 @@
 
 - [draw.io](https://www.draw.io)
 - [数字帝国](https://zh.numberempire.com/) 多功能在线公式编辑器，好用。
+- [视频转换](https://www.online-convert.com)
+- [隐藏邮件地址](http://scr.im)
+- [overapi](http://overapi.com)
+- [tool.oschina](http://tool.oschina.net)
+- [asciiflow](http://asciiflow.com)
+- [在线代码编辑](http://codepad.org)
+- [explainshell](https://explainshell.com)
+- [在线工具](https://tool.lu)
+- []()
+- []()
+- []()
+- []()
+- []()
 
 
 
@@ -992,6 +1035,7 @@
 - [mpv](https://mpv.io/)
 - [vlc](https://www.videolan.org/vlc/)
 - [iina](https://lhc70000.github.io/iina/)
+- [YouTube Downloader](https://en.savefrom.net/)
 
 
 
