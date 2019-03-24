@@ -1,5 +1,7 @@
 # Links
 
+> 另外，有需要代理的同学，可以点击我的 Shadowsocks 推介计划：[https://secure.shadowsocks.ch/aff.php?aff=11187](https://secure.shadowsocks.ch/aff.php?aff=11187)，还是很合适的。
+
 这里作为个人日常资源收集与整理的站点，当然方便自己的同时也方便他人。有些内容还是很乱，慢慢调整与整理吧，毕竟，我们的精力有限，做那些更有意义的事情吧！
 
 当然，GitHub 上还有很多优秀的项目，他们也列出了一些常用并且有趣和有用的链接，欢迎前去访问。比如[https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)，[https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)和[https://github.com/programthink/sites](https://github.com/programthink/sites)等等，欢迎挖掘！
