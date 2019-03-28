@@ -218,7 +218,6 @@
 
 
 
-
 ## Boot
 
 - [Bootice](http://www.ipauly.com/2015/11/15/bootice/)
@@ -266,7 +265,7 @@
 
 
 ## Cyber Security
-
+- [天眼查](https://www.tianyancha.com)
 - [Have I been pwned?](https://haveibeenpwned.com)
 - [Chrislinn.ink](https://chrislinn.ink)
 - [NaviSec.it](https://navisec.it/)
@@ -404,6 +403,7 @@
 
 ## Good Books
 
+- [跟我一起写 Makefile](https://seisman.github.io/how-to-write-makefile/index.html#)
 - [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/)
 - [Python Book](https://www.kancloud.cn/hiyang/python/282893)
 - [Linux 工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)
@@ -582,6 +582,7 @@
 
 ## Linux OS
 
+- [Apline Linux](https://www.alpinelinux.org/) 尤其推荐在 Docker 下使用。
 - [GNU/Linux](https://www.gnu.org/distros/free-distros.html)
 - [Ubuntu](https://www.ubuntu.com/download/desktop)
 - [Neon KDE](https://neon.kde.org/)
@@ -892,6 +893,11 @@
 
 ## Sites
 
+- [hellogithub](https://hellogithub.com)
+- [cpppatterns](https://cpppatterns.com)
+- [tutorialspoint](https://www.tutorialspoint.com/index.htm)
+- [微信公众号文章推荐](https://wx.dreamthere.com)
+- [蜗窝科技](http://www.wowotech.net)
 - [hacknical](https://hacknical.com) Github 可视化分析。
 - [9to5google](https://9to5google.com/)
 - [restoreprivacy](https://restoreprivacy.com/)
@@ -1017,7 +1023,7 @@
 - [在线代码编辑](http://codepad.org)
 - [explainshell](https://explainshell.com)
 - [在线工具](https://tool.lu)
-- []()
+- [在线图片压缩](http://www.wangyulue.com/assets/image-comversion/example/index.html)
 - []()
 - []()
 - []()
