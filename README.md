@@ -146,7 +146,7 @@
 - [铅笔区块链](http://www.chainb.com)
 - [cdecker](https://cdecker.github.io/btcresearch/#2017)
 - [blockchainlibrary](https://blockchainlibrary.org/category/academic-publications/)
-- [以太坊爱好者](http://ethfans.org/wikis/Home)
+- [以太坊爱好者](http://ethfans.org)
 - [CNN](https://www.ccn.com)
 - [blockchain-sec](https://blockchain-sec.com)
 - [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
@@ -408,6 +408,9 @@
 
 ## Good Books
 
+- [动手学深度学习](http://zh.d2l.ai/index.html)
+- [开源数学软件](https://www.kancloud.cn/digest/open-source-mathsoft/111912)
+- [毕业论文新手入坑手册](https://bookdown.org/wshuyi/intro-to-scientific-writings/)
 - [跟我一起写 Makefile](https://seisman.github.io/how-to-write-makefile/index.html#)
 - [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/)
 - [Python Book](https://www.kancloud.cn/hiyang/python/282893)
@@ -784,7 +787,10 @@
     - [the-way-to-go-official](https://sites.google.com/site/thewaytogo2012/)
     - [go-fundamental-programming](https://github.com/Unknwon/go-fundamental-programming)
     - [advanced-go-programming-book](https://chai2010.cn/advanced-go-programming-book/)
-- [Clojure](https://clojure.org/index)
+- [kotlin](https://kotlinlang.org/)
+    - [kotlinlang](https://kotlinlang.org/docs/tutorials/)
+    - [try kotlin](https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt)
+- [clojure](https://clojure.org/index)
 - [scala](http://www.scala-lang.org)
 - vala
     - [project-vala](https://wiki.gnome.org/Projects/Vala)
@@ -795,12 +801,24 @@
 - [haskell](https://www.haskell.org)
     - [Read-World-Haskell](http://rwh.readthedocs.io/en/latest/index.html)
 - [rust](https://www.rust-lang.org/en-US/index.html)
+    - [https://doc.rust-lang.org/book/index.html](https://doc.rust-lang.org/book/index.html)
     - [rust-guide](https://doc.rust-lang.org/book/second-edition/ch01-01-installation.html)
+    - [run rust online](https://play.rust-lang.org)
 - [erlang](http://www.erlang.org)    
 - [ruby](https://www.ruby-lang.org/en/)
+    - [learneroo](https://www.learneroo.com/modules/61/nodes/338)
+    - [ruby style guide](https://github.com/rubocop-hq/ruby-style-guide)
+    - [TryRuby](https://ruby.github.io/TryRuby/)
     - [rvm](https://rvm.io/)
 - [Julia](https://julialang.org/)
     - [Learning](https://julialang.org/learning/)
+- [lua](www.lua.org)
+    - [Programming in Lua](http://www.lua.org/pil/contents.html)
+    - [love2d](http://love2d.org)
+- [perl](http://perl-tutorial.org)
+    - [Perl Tutorial Hub](http://perl-tutorial.org)
+- css
+    - [QuicksMode](https://www.quirksmode.org/css/)
 - assembly
     - [X86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 - react
@@ -1019,6 +1037,7 @@
 ## Tool 
 
 - [draw.io](https://www.draw.io)
+- [ProcessOn](https://processon.com)
 - [数字帝国](https://zh.numberempire.com/) 多功能在线公式编辑器，好用。
 - [视频转换](https://www.online-convert.com)
 - [隐藏邮件地址](http://scr.im)
@@ -1029,8 +1048,7 @@
 - [explainshell](https://explainshell.com)
 - [在线工具](https://tool.lu)
 - [在线图片压缩](http://www.wangyulue.com/assets/image-comversion/example/index.html)
-- []()
-- []()
+- [在线翻译](http://translation.education/paratrans/index.php)
 - []()
 - []()
 
