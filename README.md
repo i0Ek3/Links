@@ -791,13 +791,19 @@
     - [kotlinlang](https://kotlinlang.org/docs/tutorials/)
     - [try kotlin](https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt)
 - [clojure](https://clojure.org/index)
+    - [4clojure](http://www.4clojure.com)
+    - [clojure-doc](http://clojure-doc.org)
 - [scala](http://www.scala-lang.org)
+    - [Scala for the Impatient 2nd Edition](http://horstmann.com/scala/)
+    - [tutorials](http://scalatutorials.com/tour/)
 - vala
     - [project-vala](https://wiki.gnome.org/Projects/Vala)
     - [valadoc](https://valadoc.org)
-- [lisp](https://common-lisp.net)
+- [lisp](https://common-lisp.org)
+    - [Getting Started](https://lisp-lang.org/learn/getting-started/)
     - [ANSI-Common-Lisp](http://acl.readthedocs.io/en/latest/)
     - [on-lisp](http://www.ituring.com.cn/book/1979)
+    - [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 - [haskell](https://www.haskell.org)
     - [Read-World-Haskell](http://rwh.readthedocs.io/en/latest/index.html)
 - [rust](https://www.rust-lang.org/en-US/index.html)
@@ -810,7 +816,9 @@
     - [ruby style guide](https://github.com/rubocop-hq/ruby-style-guide)
     - [TryRuby](https://ruby.github.io/TryRuby/)
     - [rvm](https://rvm.io/)
-- [Julia](https://julialang.org/)
+- [swift](https://swift.org)
+    - [apple doc](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
+- [julia](https://julialang.org/)
     - [Learning](https://julialang.org/learning/)
 - [lua](www.lua.org)
     - [Programming in Lua](http://www.lua.org/pil/contents.html)
@@ -832,6 +840,9 @@
     - [vim-adventures](https://vim-adventures.com)
     - [coolshell-vim](https://coolshell.cn/articles/5426.html) 这个也是很常用的，也很不错。
     - [vim 基础入门](https://www.jianshu.com/p/bcbe916f97e1) 很好很全面的文章，我的 vim 功力又上升了一个等级。
+- latex
+    - [wikibooks](https://en.wikibooks.org/wiki/LaTeX)
+    - [latex-tutorial](https://www.latex-tutorial.com)
 
 
 
@@ -916,6 +927,7 @@
 
 ## Sites
 
+- [Learn X in Y minutes](https://learnxinyminutes.com)
 - [hellogithub](https://hellogithub.com)
 - [cpppatterns](https://cpppatterns.com)
 - [tutorialspoint](https://www.tutorialspoint.com/index.htm)
