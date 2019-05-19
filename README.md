@@ -1,6 +1,5 @@
 # Links
 
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 > 另外，有需要代理的同学，可以点击我的 Shadowsocks 推介计划：[https://secure.shadowsocks.ch/aff.php?aff=11187](https://secure.shadowsocks.ch/aff.php?aff=11187)，还是很合适的。
 
@@ -162,6 +161,7 @@
 - [evilcos](http://evilcos.me)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [酷壳](https://coolshell.cn)
+- [lotabout.me](https://lotabout.me)
 - [有赞技术团队](https://tech.youzan.com)
 - [Mike Bostock](https://bost.ocks.org/mike/) 优质。
 - [luo2888](http://luo2888.xyz)
@@ -766,6 +766,7 @@
     - [shell utilities](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/contents.html)
     - [bash-hackers](http://wiki.bash-hackers.org/start)
 - c/c++
+    - [STL download](http://labmaster.mi.infn.it/Laboratorio2/serale/www.sgi.com/tech/stl/download.html)
     - [open-std](http://www.open-std.org/JTC1/SC22/WG21/)
     - [meetingcpp](https://www.meetingcpp.com/)
     - [isocpp](https://isocpp.org/)
@@ -961,7 +962,7 @@
 - [开发者头条](https://toutiao.io/)
 - [开源中国](https://www.oschina.net/)
 - [小众软件](https://www.appinn.com)
-- [MSDN](https://msdn.itellyou.cn/)
+- [msdn.itellyou](https://msdn.itellyou.cn/)
 - [萝卜头](http://bbs.luobotou.org/)
 - [雷锋网](https://www.leiphone.com)
 - [远景](http://bbs.pcbeta.com/)
