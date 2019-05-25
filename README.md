@@ -40,6 +40,7 @@
 * [Icons](#Icons)
 * [IDE](#ide)
 * [IMEI](#imei)
+* [#Job](#job)
 * [LaTex](#latex)
 * [Language](#Language)
 * [License](#License)
@@ -94,6 +95,7 @@
 
 ## Algorithm
 
+- [ACW](https://www.acwing.com)
 - [algorithm-excerise](https://algorithm.yuanbin.me/zh-hans/)
 - [The Coding Interview Blog](http://www.interviewdruid.com)
 - [oi-wiki](https://oi-wiki.org/)
@@ -408,6 +410,7 @@
 
 ## Good Books
 
+- [以太坊官网文档中文版](http://book.8btc.com/books/6/ethereum/_book/)
 - [动手学深度学习](http://zh.d2l.ai/index.html)
 - [开源数学软件](https://www.kancloud.cn/digest/open-source-mathsoft/111912)
 - [毕业论文新手入坑手册](https://bookdown.org/wshuyi/intro-to-scientific-writings/)
@@ -517,6 +520,12 @@
 
 
 
+## Job
+
+- [狮城小马](https://www.sgxiaoma.com/zh/)
+
+
+
 ## LaTeX
 
 - [LaTeX Official](https://www.latex-project.org/get/)
@@ -558,6 +567,8 @@
 
 ## Linux Sites
 
+- [bash one liner](http://www.bashoneliners.com)
+- [tinylab](http://tinylab.org)
 - [GNU](https://www.gnu.org)
 - [fosslinux](http://www.fosslinux.com)
 - [linuxde](http://man.linuxde.net/)
@@ -668,6 +679,7 @@
 
 ## Movie
 
+- [p4yy](http://www.p4yy.com)
 - [ProxyBay](https://proxybay.github.io)
 - [BTurl](https://www.bturl.pw)
 - [BTmimi](https://www.btmimi.com)
@@ -701,6 +713,8 @@
 
 ## Navi
 
+- [DreamThere](https://wx.dreamthere.com)
+- [AnyKnew](https://www.anyknew.com/#/)
 - [yimo](https://tools.yimo.link/#/home)
 - [gitnavi](http://www.gitnavi.com/)
 - [wangchunjiang](https://wangchujiang.com/dev-site/)
