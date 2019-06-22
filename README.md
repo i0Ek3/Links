@@ -65,6 +65,7 @@
 * [Router](#Router)
 * [Script](#script)
 * [Security OS](#security-os)
+* [Second-hand](#second-hand)
 * [Search Engine](#search-engine)
 * [Sites](#Sites)
 * [Shell](#shell)
@@ -166,6 +167,8 @@
 - [lotabout.me](https://lotabout.me)
 - [有赞技术团队](https://tech.youzan.com)
 - [Mike Bostock](https://bost.ocks.org/mike/) 优质。
+- [国光](https://www.sqlsec.com)
+- [sleele](https://sleele.com)
 - [luo2888](http://luo2888.xyz)
 - [halfrost](https://halfrost.com/author/halfrost/)
 - [huihut](https://www.huihut.com/)
@@ -267,11 +270,13 @@
 
 - [工信部申诉](http://www.chinatcc.gov.cn:8080/cms/shensus/)
 - [12321网络不良与垃圾信息举报受理中心](https://www.12321.cn)
+- [中国裁判文书网](http://wenshu.court.gov.cn/Index) 可以查某个公司的法律诉讼案件。
+- [天眼查](https://www.tianyancha.com) 核查某一公司的底细。
 
 
 
 ## Cyber Security
-- [天眼查](https://www.tianyancha.com)
+
 - [Have I been pwned?](https://haveibeenpwned.com)
 - [Chrislinn.ink](https://chrislinn.ink)
 - [NaviSec.it](https://navisec.it/)
@@ -707,6 +712,7 @@
 - [tradiio](https://tradiio.com)
 - [joepbeving](http://joepbeving.com)
 - [music online](http://music.laod.cn/)
+- [listen1](http://listen1.github.io/listen1/)
 - MOZIK
 
 
@@ -913,6 +919,12 @@
 
 
 
+## Second-hand
+
+- [51nb](https://forum.51nb.com/forum.php) 相对来说比较靠谱的二手网站。
+
+
+
 ## Search Engine
 
 - [qwant](https://www.qwant.com/)
@@ -1111,6 +1123,8 @@
 - [Awesome-windows-gitbook](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us)
 - [Awesome-windows](https://github.com/Awesome-Windows/Awesome)
 - [PortableApps](https://portableapps.com)
+- [小众软件](https://love.appinn.com)
+- [best-windows-apps](https://github.com/stackia/best-windows-apps)
 - [Apprcn](http://www.apprcn.com)
 - Windows Optimization
     - [@felixrieseberg:windows-development-environment](https://github.com/felixrieseberg/windows-development-environment) Windwos下开发环境部署。
