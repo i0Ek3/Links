@@ -168,6 +168,7 @@
 - [有赞技术团队](https://tech.youzan.com)
 - [Mike Bostock](https://bost.ocks.org/mike/) 优质。
 - [国光](https://www.sqlsec.com)
+- [sleele](https://sleele.com/)
 - [sleele](https://sleele.com)
 - [luo2888](http://luo2888.xyz)
 - [halfrost](https://halfrost.com/author/halfrost/)
