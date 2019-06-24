@@ -557,6 +557,10 @@
 - [可可英语语法](http://www.kekenet.com/grammar/)
 - Spanish
     - [forvo](https://zh.forvo.com/languages/es/)
+- 音标输入
+    - [http://ytenx.org/byohlyuk/IPA_IME](http://ytenx.org/byohlyuk/IPA_IME)
+    - [https://ipa.typeit.org/full/](https://ipa.typeit.org/full/)
+    - [http://www.fmddlmyy.cn/yinbiao/](http://www.fmddlmyy.cn/yinbiao/)
 
 
 
