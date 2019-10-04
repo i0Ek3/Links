@@ -40,7 +40,7 @@
 * [Icons](#Icons)
 * [IDE](#ide)
 * [IMEI](#imei)
-* [#Job](#job)
+* [Job](#job)
 * [LaTex](#latex)
 * [Language](#Language)
 * [License](#License)
@@ -123,7 +123,7 @@
 
 ## Apps
 
-* [electronapps](https://electronjs.org/apps)
+- [electronapps](https://electronjs.org/apps)
 
 
 
@@ -697,7 +697,7 @@
 - [ProxyBay](https://proxybay.github.io)
 - [BTurl](https://www.bturl.pw)
 - [BTmimi](https://www.btmimi.com)
-- [www.bd-film.cc/](www.bd-film.cc/) 之前的又失效了，这个是新的。
+- [www.bd-film.cc](www.bd-film.cc) 之前的又失效了，这个是新的。
 - ~~[bd-film](https://www.bdys.co) 原链接失效，新的网站垃圾广告多多。~~
 - ~~[bd-film](http://www.bd-film.co/)~~
 - [bt0](http://bt0.com/) 网站有改版哦！
