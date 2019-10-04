@@ -318,6 +318,7 @@
 
 ## Code Online
 
+- [freecodecamp](https://www.freecodecamp.org/)
 - [wide](https://wide.b3log.org/login)
 - [webassembly](https://webassembly.studio)
 - [codingame](https://www.codingame.com/home)
@@ -638,6 +639,8 @@
 ## Logo
 
 - [logomakr](https://logomakr.com/)
+- [logoly.pro](https://logoly.pro/) like PornHub. 
+- [logomaker](https://logomaker.akkariin.com/) 类似上面那个。
 
 
 
@@ -959,6 +962,7 @@
 
 ## Sites
 
+- [funny.link](http://funny.link/linkboard)
 - [Learn X in Y minutes](https://learnxinyminutes.com)
 - [hellogithub](https://hellogithub.com)
 - [cpppatterns](https://cpppatterns.com)
