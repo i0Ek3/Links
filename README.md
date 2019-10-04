@@ -1,7 +1,7 @@
 # Links
 
 
-> 另外，有需要代理的同学，可以点击我的 Shadowsocks 推介计划：[https://secure.shadowsocks.ch/aff.php?aff=11187](https://secure.shadowsocks.ch/aff.php?aff=11187)，还是很合适的。
+> 另外，有需要代理的同学，可以点击我的 Shadowsocks 推介计划：[https://secure.shadowsocks.website/aff.php?aff=11187](https://secure.shadowsocks.website/aff.php?aff=11187)，还是很合适的，目前用过比较稳定的了，大家都懂得。
 
 这里作为个人日常资源收集与整理的站点，当然方便自己的同时也方便他人。有些内容还是很乱，慢慢调整与整理吧，毕竟，我们的精力有限，做那些更有意义的事情吧！
 
@@ -168,7 +168,8 @@
 - [有赞技术团队](https://tech.youzan.com)
 - [Mike Bostock](https://bost.ocks.org/mike/) 优质。
 - [国光](https://www.sqlsec.com)
-- [sleele](https://sleele.com/)
+- [编程珠玑](https://www.yanbinghu.com)
+- [crimx](https://blog.crimx.com)
 - [sleele](https://sleele.com)
 - [luo2888](http://luo2888.xyz)
 - [halfrost](https://halfrost.com/author/halfrost/)
@@ -746,6 +747,7 @@
 ## News
 
 - [tophub](https://tophub.today)
+- [https://www.printf520.com/hot.html](https://www.printf520.com/hot.html)
 - [devurls](https://devurls.com)
 - [readspike(https://readspike.com)
 - [readhub](https://readhub.cn)
@@ -801,6 +803,7 @@
     - [cppcon](https://cppcon.org/)
     - [en](http://en.cppreference.com/w/)
     - [zh](http://zh.cppreference.com/w/首页)
+    - [http://c.biancheng.net/cplus/](http://c.biancheng.net/cplus/)
     - [cppEditorOnline](cpp.sh)
     - [C standard library](https://en.wikipedia.org/wiki/C_standard_library)
     - [C++ standard library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library)
@@ -878,7 +881,7 @@
 ## Proxy
 
 - [V2ray](https://www.v2ray.com/)
-- [shadowsocks](https://secure.shadowsocks.ch) 这是官方的shadowsocks，该链接一直在更换，如果打不开，请使用代理打开下面两个永久链接。
+- [shadowsocks](https://secure.shadowsocks.website) 这是官方的shadowsocks，该链接一直在更换，如果打不开，请使用代理打开下面两个永久链接。
     - [permanent link1](https://shadowsocks.com)
     - [permanent link2](https://portal.shadowsocks.com)
 - [shadowsocks.be](https://shadowsocks.be/) 非官方shadowsocks。
@@ -902,7 +905,7 @@
 - [localizationlab](https://www.localizationlab.org/projects/)
 - [framasoft](https://framasoft.org/?l=en)
 - [prism-break](https://prism-break.org/en/)
-
+- [UChicago X-Projects](http://chi.cs.uchicago.edu/index.html)
 
 
 ## Picture
@@ -1036,6 +1039,7 @@
 
 ## Third ROM
 
+- [XDA 搬运工](http://srom.xyz/)
 - [syberiaos](https://syberiaos.com)
 - [Arrows](https://arrowos.net/)
 - [PixelExperience](https://download.pixelexperience.org/)
@@ -1070,6 +1074,8 @@
             - [VoLTE flash zip](http://luo2888.xyz/post/25.html)
         - [RADIO for osborn](https://androidfilehost.com/?fid=11410963190603863206)
         - [Mokee for osborn](https://download.mokeedev.com/?device=osborn)
+    - ZTE Open C(Kis3)
+        - [https://konstakang.com/devices/kis3/](https://konstakang.com/devices/kis3/)
 - Recovery
     - [orangefox](https://orangefox.tech)
     - [twrp.me](https://twrp.me)
