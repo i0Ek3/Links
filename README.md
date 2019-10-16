@@ -124,7 +124,7 @@
 
 ## Apps
 
-* [electronapps](https://electronjs.org/apps)
+- [electronapps](https://electronjs.org/apps)
 
 
 
@@ -329,6 +329,7 @@
 
 ## Code Online
 
+- [freecodecamp](https://www.freecodecamp.org/)
 - [wide](https://wide.b3log.org/login)
 - [webassembly](https://webassembly.studio)
 - [codingame](https://www.codingame.com/home)
@@ -649,6 +650,8 @@
 ## Logo
 
 - [logomakr](https://logomakr.com/)
+- [logoly.pro](https://logoly.pro/) like PornHub. 
+- [logomaker](https://logomaker.akkariin.com/) 类似上面那个。
 
 
 
@@ -704,7 +707,7 @@
 - [ProxyBay](https://proxybay.github.io)
 - [BTurl](https://www.bturl.pw)
 - [BTmimi](https://www.btmimi.com)
-- [www.bd-film.cc/](www.bd-film.cc/) 之前的又失效了，这个是新的。
+- [www.bd-film.cc](www.bd-film.cc) 之前的又失效了，这个是新的。
 - ~~[bd-film](https://www.bdys.co) 原链接失效，新的网站垃圾广告多多。~~
 - ~~[bd-film](http://www.bd-film.co/)~~
 - [bt0](http://bt0.com/) 网站有改版哦！
@@ -972,6 +975,7 @@
 
 ## Sites
 
+- [funny.link](http://funny.link/linkboard)
 - [Learn X in Y minutes](https://learnxinyminutes.com)
 - [hellogithub](https://hellogithub.com)
 - [cpppatterns](https://cpppatterns.com)
