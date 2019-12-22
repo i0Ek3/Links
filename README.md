@@ -1,8 +1,5 @@
 # Links
 
-
-> 另外，有需要代理的同学，可以点击我的 Shadowsocks 推介计划：[https://secure.shadowsocks.website/aff.php?aff=11187](https://secure.shadowsocks.website/aff.php?aff=11187)，还是很合适的，目前用过比较稳定的了，大家都懂得。
-
 这里作为个人日常资源收集与整理的站点，当然方便自己的同时也方便他人。有些内容还是很乱，慢慢调整与整理吧，毕竟，我们的精力有限，做那些更有意义的事情吧！
 
 当然，GitHub 上还有很多优秀的项目，他们也列出了一些常用并且有趣和有用的链接，欢迎前去访问。比如[https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)，[https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)和[https://github.com/programthink/sites](https://github.com/programthink/sites)等等，欢迎挖掘！
@@ -74,13 +71,15 @@
 * [Terminal](#terminal)
 * [Third ROM](#third-rom)
 * [Theme](#theme)
-* [Tool](Tool)
+* [Tool](#Tool)
 * [Video Player](#video-player)
 * [Virtual](#Virtual)
 * [Windows OS Download](#windows-os-download)
 * [Windows Software](#windows-software)
 * [WinPE](#winpe)
 * [Other](#Other)
+
+[Back Top](#links)
 
 
 
@@ -92,6 +91,8 @@
 - [grakn.ai](https://grakn.ai/)
 - [openai](https://blog.openai.com/)
 - [deeplearning.ai](https://www.deeplearning.ai/)
+
+[Back Top](#links)
 
 
 
@@ -111,20 +112,18 @@
 - [yuanbin.me](https://visualgo.net/en)
 - [xtub](https://wdxtub.com/interview/14520594642530.html)
 
+[Back Top](#links)
+
 
 
 ## Activate
 
 - [JetBrains Crack](http://idea.lanyus.com/)
-- [Free JetBrains License Servers](http://xidea.online) **推荐**
+- [Free JetBrains License Servers](http://xidea.online) 
 - [Windows&Office Activate](https://cangshui.net/?page_id=1531)
 - [Vmware Fusion Pro](https://appnee.com/vmware-fusion-pro-all-versions-universal-license-keys/)
 
-
-
-## Apps
-
-- [electronapps](https://electronjs.org/apps)
+[Back Top](#links)
 
 
 
@@ -133,6 +132,8 @@
 - [itblacklist](http://www.itblacklist.cn/)
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)
 - [blackdir](http://www.blackdir.com/jump/index)
+
+[Back Top](#links)
 
 
 
@@ -157,14 +158,17 @@
 - [精通比特币](http://zhibimo.com/read/wang-miao/mastering-bitcoin/)
 - [通俗易懂区块链](https://mp.weixin.qq.com/s/v-q3j3LeQLqyjnh1Ki-rnQ)
 
+[Back Top](#links)
+
 
 
 ## Blog
 
-- [programthink](https://program-think.blogspot.com 'Recommend')
+- [programthink](https://program-think.blogspot.com 'Recommend') 高质量。
+- [王垠的博客](http://www.yinwang.org) 高质量。
+- [酷壳](https://coolshell.cn) 高质量。
 - [evilcos](http://evilcos.me)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
-- [酷壳](https://coolshell.cn)
 - [lotabout.me](https://lotabout.me)
 - [有赞技术团队](https://tech.youzan.com)
 - [Mike Bostock](https://bost.ocks.org/mike/) 优质。
@@ -213,6 +217,8 @@
 - [柳诺](https://liuchuo.net/)
 - [kn007](https://kn007.net)
 
+[Back Top](#links)
+
 
 
 ## Browser
@@ -227,6 +233,8 @@
 - [IRIDIUM](https://iridiumbrowser.de/) 一款德国品牌的浏览器。
 - [brave](https://brave.com/)
 - [breaker](https://beakerbrowser.com/)
+
+[Back Top](#links)
 
 
 
@@ -243,12 +251,16 @@
 - [multibootusb](http://multibootusb.org/)
 - [Win-To-Go](https://docs.microsoft.com/zh-cn/previous-versions/windows/it-pro/windows-8.1-and-8/hh831833(v=ws.11))
 
+[Back Top](#links)
+
 
 
 ## BookCommunity
 
 - [异步社区](https://www.epubit.com)
 - [图灵社区](http://www.ituring.com.cn)
+
+[Back Top](#links)
 
 
 
@@ -267,6 +279,8 @@
 - [BestBuy](https://www.bestbuy.com) 人们常说的百思买。
 - [知乎：海淘购物网站有哪些？](https://www.zhihu.com/question/24824823)
 
+[Back Top](#links)
+
 
 
 ## Card
@@ -276,6 +290,8 @@
 - [https://card.wifibanlv.com/dist/index.html?source1=号卡广场&sourcetype=yizhan&channel=yizhan&showBanner=false&seller_id=3341#/allpromotion](https://card.wifibanlv.com/dist/index.html?source1=号卡广场&sourcetype=yizhan&channel=yizhan&showBanner=false&seller_id=3341#/allpromotion) 号卡广场。
 - [https://www.zhihu.com/question/58178068](https://www.zhihu.com/question/58178068) 知乎大神整理的。
 
+[Back Top](#links)
+
 
 
 ## Complain
@@ -284,6 +300,8 @@
 - [12321网络不良与垃圾信息举报受理中心](https://www.12321.cn)
 - [中国裁判文书网](http://wenshu.court.gov.cn/Index) 可以查某个公司的法律诉讼案件。
 - [天眼查](https://www.tianyancha.com) 核查某一公司的底细。
+
+[Back Top](#links)
 
 
 
@@ -325,6 +343,8 @@
 - [SECWIKI](https://www.sec-wiki.com/)
 - [看雪](https://bbs.pediy.com)
 
+[Back Top](#links)
+
 
 
 ## Code Online
@@ -340,6 +360,8 @@
 - [Coursera](https://www.coursera.org/)
 - [可汗学院](https://www.khanacademy.org/)
 - [mooc](https://mooc.guokr.com/)
+
+[Back Top](#links)
 
 
 
@@ -363,6 +385,8 @@
 - [asciinema](https://asciinema.org/)
 - [IPLeak](https://ipleak.net/)
 
+[Back Top](#links)
+
 
 
 ## Dict
@@ -376,6 +400,8 @@
 - [Linguee](https://www.linguee.com/)
 - [Reverso Dctionary](https://dictionary.reverso.net)
 
+[Back Top](#links)
+
 
 
 ## Donwload Tools
@@ -384,6 +410,8 @@
 - [transmissionbt](https://transmissionbt.com/)
 - [FDM](https://www.freedownloadmanager.org)
 
+[Back Top](#links)
+
 
 
 ## Draw
@@ -391,11 +419,15 @@
 - [whimsical](https://whimsical.co)
 - [draw.io](https://www.draw.io)
 
+[Back Top](#links)
+
 
 
 ## Encrypt
 
 - [Veracrypt](https://www.veracrypt.fr/en/Downloads.html)
+
+[Back Top](#links)
 
 
 
@@ -404,6 +436,8 @@
 - [bestcbook](http://bestcbooks.com/) 大多数电子书籍较旧，但是不影响我们吸收营养。
 - [苦瓜书盘](https://www.kgbook.com)
 - [ireadweek](http://www.ireadweek.com/index.php/Index/index.html)
+
+[Back Top](#links)
 
 
 
@@ -415,6 +449,8 @@
 - [codemoji.org](https://codemoji.org/#/encrypt)
 - [atom-git-commit](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages)
 
+[Back Top](#links)
+
 
 
 ## Font
@@ -423,6 +459,8 @@
 - [powerline-fonts](https://github.com/powerline/fonts)
 - [fontawesome](https://fontawesome.com/)
 - [fontspace](http://www.fontspace.com/)
+
+[Back Top](#links)
 
 
 
@@ -464,6 +502,8 @@
 - [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
 - [ES6](http://es6.ruanyifeng.com)
 
+[Back Top](#links)
+
 
 
 ## Git
@@ -497,6 +537,8 @@
     * [sourcetreeapp](https://www.sourcetreeapp.com/)
     * [Official](https://desktop.github.com/)
 
+[Back Top](#links)
+
 
 
 ## Hosts
@@ -507,6 +549,8 @@
 - [自建ss服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 - [91yun](https://www.91yun.co/)
 - [doub](https://doub.bid/)
+
+[Back Top](#links)
 
 
 
@@ -523,24 +567,33 @@
 - [numix](https://github.com/numixproject/numix-icon-theme-circle)
 - [Flat-color](https://github.com/icons8/flat-color-icons)
 
+[Back Top](#links)
+
 
 
 ## IDE
 
+- [JetBrains](https://www.jetbrains.com)
 - [Qt](http://download.qt.io/official_releases/qt/)
+
+[Back Top](#links)
 
 
 
 ## IMEI
 
-* [numberingp](https://www.numberingplans.com/?page=analysis&sub=imeinr)
-* [imeidb](http://www.imeidb.com/)
+- [numberingp](https://www.numberingplans.com/?page=analysis&sub=imeinr)
+- [imeidb](http://www.imeidb.com/)
+
+[Back Top](#links)
 
 
 
 ## Job
 
 - [狮城小马](https://www.sgxiaoma.com/zh/)
+
+[Back Top](#links)
 
 
 
@@ -556,6 +609,8 @@
 - [Math Syntax for LaTeX](http://mohu.org/info/symbols/symbols.html)
 - [Office in LaTeX](https://support.office.com/en-us/article/Linear-format-equations-using-UnicodeMath-and-LaTeX-in-Word-2e00618d-b1fd-49d8-8cb4-8d17f25754f8)    
 - [Arbitrary LaTeX reference](http://latex.knobs-dials.com/)
+
+[Back Top](#links)
 
 
 
@@ -574,6 +629,8 @@
     - [https://ipa.typeit.org/full/](https://ipa.typeit.org/full/)
     - [http://www.fmddlmyy.cn/yinbiao/](http://www.fmddlmyy.cn/yinbiao/)
 
+[Back Top](#links)
+
 
 
 ## Linux Kernel
@@ -584,6 +641,8 @@
 - [LKML](https://lkml.org)
 - [kernel-doc](https://www.kernel.org/doc/html/latest/)
 - [内核之旅](http://www.kerneltravel.net)
+
+[Back Top](#links)
 
 
 
@@ -619,6 +678,8 @@
 - [Linux命令大全](http://man.linuxde.net/)
 - [ubuntupit](https://www.ubuntupit.com)
 
+[Back Top](#links)
+
 
 
 ## Linux OS
@@ -638,12 +699,16 @@
 - [Debian](https://www.debian.org/)
 - [Arch Linux](https://www.archlinux.org/download/)
 
+[Back Top](#links)
+
 
 
 ## License
 
 - [MIT](https://choosealicense.com/licenses/mit/)
 - [choosealicense](https://choosealicense.com)
+
+[Back Top](#links)
 
 
 
@@ -652,6 +717,8 @@
 - [logomakr](https://logomakr.com/)
 - [logoly.pro](https://logoly.pro/) like PornHub. 
 - [logomaker](https://logomaker.akkariin.com/) 类似上面那个。
+
+[Back Top](#links)
 
 
 
@@ -670,6 +737,8 @@
 - [packal for alfred](http://www.packal.org/)
 - [eZip](https://ezip.awehunt.com) 非常好用的且免费的mac平台解压工具，功能齐全。
 
+[Back Top](#links)
+
 
 
 ## Markdown
@@ -685,6 +754,8 @@
 - [Math Formula Syntax](https://meta.wikimedia.org/wiki/Help:Displaying_a_formula)
 - [Markdown Plus](http://mdp.tylingsoft.com)
 
+[Back Top](#links)
+
 
 
 ## Mirror List
@@ -698,6 +769,8 @@
 - [东软](http://mirrors.neusoft.edu.cn/)
 - [中科大](https://mirrors.ustc.edu.cn/)
 - [清华大学](https://mirrors.tuna.tsinghua.edu.cn/)
+
+[Back Top](#links)
 
 
 
@@ -718,6 +791,8 @@
 - [天天美剧](http://www.msj1.com/)
 - [六维空间](http://bt.neu6.edu.cn) 
 
+[Back Top](#links)
+
 
 
 ## Music
@@ -734,6 +809,8 @@
 - [listen1](http://listen1.github.io/listen1/)
 - MOZIK
 
+[Back Top](#links)
+
 
 
 ## Navi
@@ -744,6 +821,8 @@
 - [gitnavi](http://www.gitnavi.com/)
 - [wangchunjiang](https://wangchujiang.com/dev-site/)
 
+[Back Top](#links)
+
 
 
 ## Network
@@ -751,6 +830,8 @@
 - [prism-break](https://prism-break.org/)
 - [I2P](https://geti2p.net/zh/)
 - [Tor](https://www.torproject.org/)
+
+[Back Top](#links)
 
 
 
@@ -764,6 +845,8 @@
 - [solidot](https://www.solidot.org/)
 - [HackerNews](https://news.ycombinator.com)
 
+[Back Top](#links)
+
 
 
 ## Oneline Editor
@@ -776,6 +859,8 @@
     - [如何写简历](https://juejin.im/book/59e17a7ff265da430629cc4e/section/59faec225188252abc5db42c)
     - [简历模板](https://github.com/geekcompany/ResumeSample)
 
+[Back Top](#links)
+
 
 
 ## Other
@@ -786,6 +871,8 @@
 - [cn-data](https://github.com/cn)
 - [omnetpp](https://www.omnetpp.org/omnetpp) Simulate software.
 
+[Back Top](#links)
+
 
 
 ## Privacy
@@ -795,6 +882,8 @@
 - [RestorePrivacy](https://restoreprivacy.com)
 - [prism-break](https://prism-break.org/en/)
 - [NoMoreGoogle](https://nomoregoogle.com/?ref=appinn)
+
+[Back Top](#links)
 
 
 
@@ -886,6 +975,8 @@
     - [wikibooks](https://en.wikibooks.org/wiki/LaTeX)
     - [latex-tutorial](https://www.latex-tutorial.com)
 
+[Back Top](#links)
+
 
 
 ## Proxy
@@ -908,6 +999,8 @@
 - [sockshub](http://sockshub.net/index.php)
 - [luminati](https://luminati.io)
 
+[Back Top](#links)
+
 
 
 ## Project
@@ -917,6 +1010,9 @@
 - [prism-break](https://prism-break.org/en/)
 - [UChicago X-Projects](http://chi.cs.uchicago.edu/index.html)
 
+[Back Top](#links)
+
+
 
 ## Picture
 
@@ -924,11 +1020,15 @@
 - [Unsplash](https://unsplash.com/)
 - [wallhaven](https://alpha.wallhaven.cc)
 
+[Back Top](#links)
+
 
 
 ## Router
 
 - [192ly](https://www.192ly.com/)
+
+[Back Top](#links)
 
 
 
@@ -938,11 +1038,15 @@
 - [GeekFork](https://greasyfork.org/zh-CN)
 - [openuserjs](https://openuserjs.org)
 
+[Back Top](#links)
+
 
 
 ## Second-hand
 
 - [51nb](https://forum.51nb.com/forum.php) 相对来说比较靠谱的二手网站。
+
+[Back Top](#links)
 
 
 
@@ -962,6 +1066,9 @@
 - [Zoomeye](http://www.zoomeye.org)
 - [Shodan](https://shodan.io)
 
+[Back Top](#links)
+
+
 
 ## Shell
 
@@ -970,6 +1077,8 @@
 - [shell-fu](http://www.shell-fu.org)
 - [bashoneliners](http://www.bashoneliners.com)
 - [explainshell](https://www.explainshell.com)
+
+[Back Top](#links)
 
 
 
@@ -1015,6 +1124,8 @@
 - [雷锋网](https://www.leiphone.com)
 - [远景](http://bbs.pcbeta.com/)
 
+[Back Top](#links)
+
 
 
 ## Security OS
@@ -1030,6 +1141,8 @@
 - [qubes](https://www.qubes-os.org/)
 - [PureOS](https://pureos.net/)
 
+[Back Top](#links)
+
 
 
 ## SpeedTest
@@ -1037,13 +1150,16 @@
 - [Speedtest](http://www.speedtest.net/)
 - [电信测速](http://service.sh.189.cn/service/speedNew)
 
+[Back Top](#links)
+
 
 
 ## Terminal
 
-- [Hyper]()
-- [iTerm2]()
-- []()
+- [iTerm2](https://iterm2.com) macOS only.
+- [Hyper](https://hyper.is) Full platform.
+
+[Back Top](#links)
 
 
 
@@ -1072,7 +1188,7 @@
             - [cn-fastboot](http://www.miui.com/shuaji-393.html)
             - [pl](https://miuipolska.pl/download/)
         - [9.0](https://androidfilehost.com/?w=files&flid=282986)
-    - Oneplus One(bacon)
+    - Oneplus One(bacon) saled.
         - [Oreo](https://forum.xda-developers.com/oneplus-one/orig-development/rom-aosp-oreo-oneplus-one-t3666741)
         - [POSP](https://sourceforge.net/projects/posp/files/bacon/)
         - [Arrow](https://sourceforge.net/projects/arrow-os/files/arrow-9.x/bacon/)
@@ -1084,17 +1200,21 @@
             - [VoLTE flash zip](http://luo2888.xyz/post/25.html)
         - [RADIO for osborn](https://androidfilehost.com/?fid=11410963190603863206)
         - [Mokee for osborn](https://download.mokeedev.com/?device=osborn)
-    - ZTE Open C(Kis3)
+    - ZTE Open C(Kis3) saled.
         - [https://konstakang.com/devices/kis3/](https://konstakang.com/devices/kis3/)
 - Recovery
     - [orangefox](https://orangefox.tech)
     - [twrp.me](https://twrp.me)
+
+[Back Top](#links)
 
 
 
 ## Theme
 
 - [monokai.pro](https://www.monokai.pro/)
+
+[Back Top](#links)
 
 
 
@@ -1113,8 +1233,8 @@
 - [在线工具](https://tool.lu)
 - [在线图片压缩](http://www.wangyulue.com/assets/image-comversion/example/index.html)
 - [在线翻译](http://translation.education/paratrans/index.php)
-- []()
-- []()
+
+[Back Top](#links)
 
 
 
@@ -1122,6 +1242,8 @@
 
 - [VMWare]()
 - [Virtual Box]()
+
+[Back Top](#links)
 
 
 
@@ -1132,6 +1254,8 @@
 - [iina](https://lhc70000.github.io/iina/)
 - [YouTube Downloader](https://en.savefrom.net/)
 
+[Back Top](#links)
+
 
 
 ## Windows OS Download
@@ -1140,6 +1264,8 @@
 - [TechBench](https://tb.rg-adguard.net/public.php)
 - [小马](http://www.pccppc.com/windows-system-html)
 - [MSDN](https://msdn.itellyou.cn/)
+
+[Back Top](#links)
 
 
 
@@ -1166,6 +1292,8 @@
     - [WoeUSB](https://github.com/slacka/WoeUSB)
     - [Multibootusb](https://github.com/mbusb/multibootusb)
 - [sudo for Windows](https://github.com/mattn/sudo)
+
+[Back Top](#links)
 
 
 
