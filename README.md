@@ -1,5 +1,7 @@
 # Links
 
+> [Internet Archive](https://archive.org).
+
 这里作为个人日常资源收集与整理的站点，当然方便自己的同时也方便他人。有些内容还是很乱，慢慢调整与整理吧，毕竟，我们的精力有限，做那些更有意义的事情吧！
 
 当然，GitHub 上还有很多优秀的项目，他们也列出了一些常用并且有趣和有用的链接，欢迎前去访问。比如[https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)，[https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)和[https://github.com/programthink/sites](https://github.com/programthink/sites)等等，欢迎挖掘！
@@ -91,6 +93,7 @@
 - [grakn.ai](https://grakn.ai/)
 - [openai](https://blog.openai.com/)
 - [deeplearning.ai](https://www.deeplearning.ai/)
+- [https://easyai.tech](https://easyai.tech)
 
 [Back Top](#links)
 
@@ -776,15 +779,9 @@
 
 ## Movie
 
-- [p4yy](http://www.p4yy.com)
-- [ProxyBay](https://proxybay.github.io)
-- [BTurl](https://www.bturl.pw)
-- [BTmimi](https://www.btmimi.com)
-- [www.bd-film.cc](www.bd-film.cc) 之前的又失效了，这个是新的。
-- ~~[bd-film](https://www.bdys.co) 原链接失效，新的网站垃圾广告多多。~~
-- ~~[bd-film](http://www.bd-film.co/)~~
-- [bt0](http://bt0.com/) 网站有改版哦！
 - [rarbg](https://rarbg.is/torrents.php)
+- [ProxyBay](https://proxybay.github.io)
+- [bd-film.cc](www.bd-film.cc) 
 - [字幕组](http://www.zimuzu.io)
 - [阳光电影](http://ygdy8.com)
 - [人人影视](http://www.yyets.com/)
@@ -1181,19 +1178,12 @@
 - [opengapps](https://opengapps.org)
 - devices
     - Xiaomi Mix2(chiron)
-        - MIUI
-            - [eu](https://jaist.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/)
-            - [en](https://en.miui.com/download-334.html)
-            - [cn](https://www.miui.com/download-337.html)
-            - [cn-fastboot](http://www.miui.com/shuaji-393.html)
-            - [pl](https://miuipolska.pl/download/)
-        - [9.0](https://androidfilehost.com/?w=files&flid=282986)
-    - Oneplus One(bacon) saled.
-        - [Oreo](https://forum.xda-developers.com/oneplus-one/orig-development/rom-aosp-oreo-oneplus-one-t3666741)
-        - [POSP](https://sourceforge.net/projects/posp/files/bacon/)
-        - [Arrow](https://sourceforge.net/projects/arrow-os/files/arrow-9.x/bacon/)
-        - tools
-            - [toolallinone](https://toolaio.tk/download/)
+        - [https://sourceforge.net/projects/andyyan/files/10/](https://sourceforge.net/projects/andyyan/files/10/) Android 10
+        - [eu MIUI](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/)
+        - [cn MIUI](https://www.miui.com/download-337.html)
+    - Google Nexus4(mako)
+        - [https://mirror.codebucket.de/magma/mako/](https://mirror.codebucket.de/magma/mako/) Android 10
+        - [https://drive.google.com/drive/folders/1e-mO4qaEP1y0wrBbbPwsISdJuW_TeLQo](https://drive.google.com/drive/folders/1e-mO4qaEP1y0wrBbbPwsISdJuW_TeLQo) lineage 16 & 17.1
     - Nut Pro 2(osborn)
         - [NitrogenOS-by-PeterCxy](https://listed.standardnotes.org/@PeterCxy/2880/nitrogen-os-for-smartisan-u3-pro-osborn-nut-pro-2)
             - [China Telecom on Nut Pro2](https://listed.standardnotes.org/@PeterCxy/3501/pro-2-volte-alpha)
