@@ -2,11 +2,14 @@
 
 > [Internet Archive](https://archive.org).
 
+> “你懂的” 新推介计划，更换了新的“上网”模式，较之前的 SS 稳定很多，欢迎体验！[https://portal.shadowsocks.nl/aff.php?aff=11187](https://portal.shadowsocks.nl/aff.php?aff=11187)
+
+> [http://rain.xxoojoke.com](http://rain.xxoojoke.com)，边写代码边听。
+
 这里作为个人日常资源收集与整理的站点，当然方便自己的同时也方便他人。有些内容还是很乱，慢慢调整与整理吧，毕竟，我们的精力有限，做那些更有意义的事情吧！
 
 当然，GitHub 上还有很多优秀的项目，他们也列出了一些常用并且有趣和有用的链接，欢迎前去访问。比如[https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)，[https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)和[https://github.com/programthink/sites](https://github.com/programthink/sites)等等，欢迎挖掘！
 
-> 推荐[http://rain.xxoojoke.com](http://rain.xxoojoke.com)，边写代码边听。
 
 
 # Contents
@@ -26,6 +29,7 @@
 * [Code Online](#code-online)
 * [Complain](#Complain)
 * [Cyber Security](#cyber-security)
+* [Data](#data)
 * [Develop](#Develop)
 * [Dict](#dict)
 * [Download Tools](#download-tools)
@@ -57,6 +61,7 @@
 * [Network](#Network)
 * [News](#news)
 * [Online Editor](#online-editor)
+* [Paper](#paper)
 * [Picture](#Picture)
 * [Privacy](#privacy)
 * [Proxy](#Proxy)
@@ -169,9 +174,10 @@
 
 - [programthink](https://program-think.blogspot.com 'Recommend') 高质量。
 - [王垠的博客](http://www.yinwang.org) 高质量。
-- [酷壳](https://coolshell.cn) 高质量。
-- [evilcos](http://evilcos.me)
+- [陈皓酷壳](https://coolshell.cn) 高质量。
+- [刘未鹏](http://mindhacks.cn)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
+- [evilcos](http://evilcos.me)
 - [lotabout.me](https://lotabout.me)
 - [有赞技术团队](https://tech.youzan.com)
 - [Mike Bostock](https://bost.ocks.org/mike/) 优质。
@@ -262,6 +268,11 @@
 
 - [异步社区](https://www.epubit.com)
 - [图灵社区](http://www.ituring.com.cn)
+- [古籍馆](https://www.gujiguan.com)
+- [Lots of Ebooks](https://manybooks.net)
+- [书单网](https://www.shudan.vip)
+- [Ebook releases](https://forum.mobilism.org/viewforum.php?f=19)
+- [在线电子书转换](http://cn.epubee.com)
 
 [Back Top](#links)
 
@@ -363,6 +374,17 @@
 - [Coursera](https://www.coursera.org/)
 - [可汗学院](https://www.khanacademy.org/)
 - [mooc](https://mooc.guokr.com/)
+
+[Back Top](#links)
+
+
+
+## Data
+
+- [Data.gov](https://www.data.gov)
+- [Kaggle dataset](https://www.kaggle.com/datasets)
+- [Dataset Search](https://datasetsearch.research.google.com/?hl=zh-cn)
+- [Google Cloud Platform Dataset](https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&hl=zh-cn)
 
 [Back Top](#links)
 
@@ -499,6 +521,7 @@
 - [Intellij-idea-tutorial](https://youmeek.gitbooks.io/intellij-idea-tutorial/content/)
 - [笨办法学Vimscript](http://learnvimscriptthehardway.onefloweroneworld.com)
 - [Docker入门](https://yeasy.gitbooks.io/docker_practice/content/introduction/what.html)
+- [从Docker到Kubernetes进阶](https://www.qikqiak.com/k8s-book/)
 - [程序员跳槽全攻略](http://ftqq.com/程序员跳槽全攻略/README.adoc)
 - [greyhame](https://chrislinn.gitbooks.io/greyhame-2017/content/)
 - [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
@@ -1011,6 +1034,14 @@
 
 
 
+## Paper
+
+- [Paper With Code](https://paperswithcode.com/sota)
+
+[Back Top](#links)
+
+
+
 ## Picture
 
 - [octodex](https://octodex.github.com)
@@ -1120,6 +1151,7 @@
 - [萝卜头](http://bbs.luobotou.org/)
 - [雷锋网](https://www.leiphone.com)
 - [远景](http://bbs.pcbeta.com/)
+- [非常论坛](http://machbbs.com)
 
 [Back Top](#links)
 
