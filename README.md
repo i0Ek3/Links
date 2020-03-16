@@ -175,9 +175,10 @@
 - [programthink](https://program-think.blogspot.com 'Recommend') 高质量。
 - [王垠的博客](http://www.yinwang.org) 高质量。
 - [陈皓酷壳](https://coolshell.cn) 高质量。
-- [刘未鹏](http://mindhacks.cn)
+- [刘未鹏](http://mindhacks.cn) 高质量。
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [evilcos](http://evilcos.me)
+- [draveness](https://draveness.me/index) 小伙年龄不大，对底层代码见解颇深。
 - [lotabout.me](https://lotabout.me)
 - [有赞技术团队](https://tech.youzan.com)
 - [Mike Bostock](https://bost.ocks.org/mike/) 优质。
@@ -213,7 +214,6 @@
 - [zsythink](http://www.zsythink.net/archives/tag/awk/)
 - [方糖](http://ftqq.com/)
     - [方糖全栈课](https://quanzhanke.github.io)
-- [draveness](https://draveness.me/index)
 - [小土刀](http://wdxtub.com/)
 - [老D](https://laod.cn/)
 - [我是菜鸟](https://imcn.me/)
@@ -234,7 +234,7 @@
 
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) 用来替代Chromium的并去除google特性的隐私浏览器。
     - [ungoogled=chromium-builds](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
-- [Librefox](https://github.com/intika/Librefox) 用来替代Firefox的安全隐私浏览器。
+- [Librefox](https://github.com/intika/Librefox) 高度定制化的Firefox配置文件，让你的Firefox浏览器更安全。。
 - [Vivaldi](https://vivaldi.com/zh-hans/download/) 一款高度可定制化浏览器。
 - [Tor](https://www.torproject.org/) 无需多言了吧？
 - Firefox 大名鼎鼎，就不需要我贴地址了吧，不过注意区分国际和国内的地址，二者不一样的。
@@ -741,7 +741,7 @@
 ## Logo
 
 - [logomakr](https://logomakr.com/)
-- [logoly.pro](https://logoly.pro/) like PornHub. 
+- [logoly.pro](https://logoly.pro/) PornHub avatar. 
 - [logomaker](https://logomaker.akkariin.com/) 类似上面那个。
 
 [Back Top](#links)
@@ -769,10 +769,12 @@
 
 ## Markdown
 
-- [GitNote](https://gitnoteapp.com)
+- [Typora](https://typora.io) 目前主要用的。
+- [Joplin](https://joplinapp.org/) 跨平台笔记，支持markdown。
+- [Macdown](https://macdown.uranusjr.com)
+- [Notion](https://www.notion.so)
+- [GitNote](https://gitnoteapp.com) 
 - [markdown intro](https://www.jianshu.com/p/20e82ddb37cb)
-- [Macdown](https://macdown.uranusjr.com) macOS中一直使用的。
-- [Notion](https://www.notion.so) 非常好用的跨平台的markdown文本编辑器，同步功能很好。
 - [Yu-writer](https://ivarptr.github.io/yu-writer.site/)
 - [cmdMarkdown](https://www.zybuluo.com/cmd/)
 - [stackedit](https://stackedit.io/)
@@ -804,6 +806,10 @@
 
 - [rarbg](https://rarbg.is/torrents.php)
 - [ProxyBay](https://proxybay.github.io)
+- [YTS](https://yts.mx)
+- [The Pirate Bay](https://thepirate-bay.org/home6/)
+- [showRSS](https://showrss.info)
+- [SubHD.la](http://subhd.la)
 - [bd-film.cc](www.bd-film.cc) 
 - [字幕组](http://www.zimuzu.io)
 - [阳光电影](http://ygdy8.com)
