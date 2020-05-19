@@ -2,89 +2,84 @@
 
 > [Internet Archive](https://archive.org).
 
-> “你懂的” 新推介计划，更换了新的“上网”模式，较之前的 SS 稳定很多，欢迎体验！[https://portal.shadowsocks.nl/aff.php?aff=11187](https://portal.shadowsocks.nl/aff.php?aff=11187)
-
-> [http://rain.xxoojoke.com](http://rain.xxoojoke.com)，边写代码边听。
-
 这里作为个人日常资源收集与整理的站点，当然方便自己的同时也方便他人。有些内容还是很乱，慢慢调整与整理吧，毕竟，我们的精力有限，做那些更有意义的事情吧！
-
-当然，GitHub 上还有很多优秀的项目，他们也列出了一些常用并且有趣和有用的链接，欢迎前去访问。比如[https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)，[https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)和[https://github.com/programthink/sites](https://github.com/programthink/sites)等等，欢迎挖掘！
-
 
 
 # Contents
 
 * [AI](#ai)
-* [Activate](#Activate)
-* [Algorithm](#Algorithm)
-* [Apps](#Apps)
-* [Blockchain](#Blockchain)
-* [Blog](#Blog)
+* [Activate](#activate)
+* [Algorithm](#algorithm)
+* [Apps](#apps)
+* [Blockchain](#blockchain)
+* [Blog](#blog)
 * [Black List](#black-list)
-* [Boot](#Boot)
+* [Boot](#boot)
 * [Book Community](#book-community)
 * [Browser](#browser)
 * [Buy](#buy)
 * [Card](#card)
 * [Code Online](#code-online)
-* [Complain](#Complain)
+* [Complain](#vomplain)
 * [Cyber Security](#cyber-security)
 * [Data](#data)
-* [Develop](#Develop)
+* [Develop](#develop)
 * [Dict](#dict)
 * [Download Tools](#download-tools)
 * [Draw](#draw)
-* [Ebook](#Ebook)
+* [Ebook](#ebook)
 * [Emoji](#emoji)
-* [Encrypt](#Encrypt)
-* [Font](#Font)
+* [Encrypt](#encrypt)
+* [Font](#eont)
 * [Good Books](#good-books)
-* [Git](#Git)
-* [Hosts](#Hosts)
-* [Icons](#Icons)
+* [Git](#git)
+* [Hosts](#hosts)
+* [Icons](#icons)
 * [IDE](#ide)
 * [IMEI](#imei)
 * [Job](#job)
 * [LaTex](#latex)
-* [Language](#Language)
-* [License](#License)
+* [Language](#language)
+* [License](#license)
 * [Linux Kernel](#linux-kernel)
 * [Linux Sites](#linux-sites)
 * [Linux OS](#linux-os)
-* [Logo](#Logo)
+* [Literature](#literature)
+* [Logo](#logo)
 * [Mac Things](#mac-things)
 * [Markdown](#markdown)
 * [Mirror List](#mirror-list)
-* [Movie](#Movie)
-* [Music](#Music)
+* [Movie](#movie)
+* [Music](#music)
 * [Navi](#navi)
-* [Network](#Network)
+* [Network](#network)
 * [News](#news)
 * [Online Editor](#online-editor)
 * [Paper](#paper)
-* [Picture](#Picture)
+* [Picture](#picture)
 * [Privacy](#privacy)
-* [Proxy](#Proxy)
+* [Proxy](#proxy)
 * [Programming Languages](#programming-languages)
 * [Project](#project)
-* [Router](#Router)
+* [Router](#router)
 * [Script](#script)
 * [Security OS](#security-os)
 * [Second-hand](#second-hand)
 * [Search Engine](#search-engine)
-* [Sites](#Sites)
+* [Sites](#sites)
 * [Shell](#shell)
 * [Speed Test](#speed-test)
 * [Terminal](#terminal)
 * [Third ROM](#third-rom)
 * [Theme](#theme)
-* [Tool](#Tool)
+* [Tool](#tool)
 * [Video Player](#video-player)
-* [Virtual](#Virtual)
+* [Virtual](#virtual)
+* [Virus Check](virus-check)
 * [Windows OS Download](#windows-os-download)
 * [Windows Software](#windows-software)
 * [WinPE](#winpe)
-* [Other](#Other)
+* [Other](#other)
 
 [Back Top](#links)
 
@@ -738,6 +733,12 @@
 
 
 
+## Literature
+
+- [Marxists](https://www.marxists.org/chinese/index.html) 马克思主义文库
+
+
+
 ## Logo
 
 - [logomakr](https://logomakr.com/)
@@ -806,8 +807,9 @@
 
 - [rarbg](https://rarbg.is/torrents.php)
 - [ProxyBay](https://proxybay.github.io)
-- [YTS](https://yts.mx)
 - [The Pirate Bay](https://thepirate-bay.org/home6/)
+- [PirateProxy](https://www.pirateproxy.space/)
+- [YTS](https://yts.mx)
 - [showRSS](https://showrss.info)
 - [SubHD.la](http://subhd.la)
 - [bd-film.cc](www.bd-film.cc) 
@@ -823,6 +825,7 @@
 
 ## Music
 
+- [厅雨](http://rain.xxoojoke.com)
 - [搜你妹](http://music.sonimei.cn)
 - [QQmusic无限下载](http://music.mzz.pub/) 推荐，可下载收费音乐！
 - [voicer](http://www.voicer.me/?s=Mixtape)
@@ -1050,6 +1053,7 @@
 
 ## Picture
 
+- [Dynamic Wallpaper](https://dynamicwallpaper.club) for macOS.
 - [octodex](https://octodex.github.com)
 - [Unsplash](https://unsplash.com/)
 - [wallhaven](https://alpha.wallhaven.cc)
@@ -1099,6 +1103,7 @@
 - [Gitnavi](http://www.gitnavi.com)
 - [Zoomeye](http://www.zoomeye.org)
 - [Shodan](https://shodan.io)
+- [Socode](https://socode.pro/)
 
 [Back Top](#links)
 
@@ -1118,6 +1123,8 @@
 
 ## Sites
 
+- [DXOMARK](https://www.dxomark.com/cn/category/smartphone-reviews/)
+-
 - [funny.link](http://funny.link/linkboard)
 - [Learn X in Y minutes](https://learnxinyminutes.com)
 - [hellogithub](https://hellogithub.com)
@@ -1201,6 +1208,9 @@
 ## Third ROM
 
 - [XDA 搬运工](http://srom.xyz/)
+- [eu MIUI](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/)
+- [cn MIUI](https://www.miui.com/download-337.html)
+- [XDA](http://xda-developers.com/)
 - [syberiaos](https://syberiaos.com)
 - [Arrows](https://arrowos.net/)
 - [PixelExperience](https://download.pixelexperience.org/)
@@ -1214,22 +1224,6 @@
 - [Unlegency Android Project](http://builds.unlegacy-android.org)
 - [sailfish os](http://images.devaamo.fi)
 - [opengapps](https://opengapps.org)
-- devices
-    - Xiaomi Mix2(chiron)
-        - [https://sourceforge.net/projects/andyyan/files/10/](https://sourceforge.net/projects/andyyan/files/10/) Android 10
-        - [eu MIUI](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/)
-        - [cn MIUI](https://www.miui.com/download-337.html)
-    - Google Nexus4(mako)
-        - [https://mirror.codebucket.de/magma/mako/](https://mirror.codebucket.de/magma/mako/) Android 10
-        - [https://drive.google.com/drive/folders/1e-mO4qaEP1y0wrBbbPwsISdJuW_TeLQo](https://drive.google.com/drive/folders/1e-mO4qaEP1y0wrBbbPwsISdJuW_TeLQo) lineage 16 & 17.1
-    - Nut Pro 2(osborn)
-        - [NitrogenOS-by-PeterCxy](https://listed.standardnotes.org/@PeterCxy/2880/nitrogen-os-for-smartisan-u3-pro-osborn-nut-pro-2)
-            - [China Telecom on Nut Pro2](https://listed.standardnotes.org/@PeterCxy/3501/pro-2-volte-alpha)
-            - [VoLTE flash zip](http://luo2888.xyz/post/25.html)
-        - [RADIO for osborn](https://androidfilehost.com/?fid=11410963190603863206)
-        - [Mokee for osborn](https://download.mokeedev.com/?device=osborn)
-    - ZTE Open C(Kis3) saled.
-        - [https://konstakang.com/devices/kis3/](https://konstakang.com/devices/kis3/)
 - Recovery
     - [orangefox](https://orangefox.tech)
     - [twrp.me](https://twrp.me)
@@ -1246,12 +1240,18 @@
 
 
 
-## Tool 
+## Tool
 
+- [Wolframalpha](https://www.wolframalpha.com/)
+- [Ascii math](http://asciimath.org)
 - [draw.io](https://www.draw.io)
 - [ProcessOn](https://processon.com)
 - [数字帝国](https://zh.numberempire.com/) 多功能在线公式编辑器，好用。
 - [视频转换](https://www.online-convert.com)
+- [Helloacm](https://helloacm.com/tools/)
+- [A tool box](http://www.atoolbox.net/)
+- [Table Convert](https://tableconvert.com/)
+- [toolfk](https://www.toolfk.com/)
 - [隐藏邮件地址](http://scr.im)
 - [overapi](http://overapi.com)
 - [tool.oschina](http://tool.oschina.net)
@@ -1268,10 +1268,17 @@
 
 ## Virtual
 
-- [VMWare]()
-- [Virtual Box]()
+- [Paralles](https://www.parallels.com/)
+- [VMWare](https://www.vmware.com)
+- [Virtual Box](https://www.virtualbox.org)
 
 [Back Top](#links)
+
+
+
+## Virus Check
+
+- [VirusTotal](https://www.virustotal.com/gui/home)
 
 
 
