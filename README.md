@@ -61,6 +61,7 @@
 * [Proxy](#proxy)
 * [Programming Languages](#programming-languages)
 * [Project](#project)
+* [Rent](#rent)
 * [Router](#router)
 * [Script](#script)
 * [Security OS](#security-os)
@@ -1060,6 +1061,14 @@
 - [ID Photho](https://www.idphoto4you.com) Making ID photo.
 
 [Back Top](#links)
+
+
+
+## Rent
+
+- [豆瓣租房搜索](http://uz.yurixu.com/manage/beijing.php)
+- [豆瓣小组-北京租房](https://www.douban.com/group/beijingzufang/)
+- [豆瓣小组-北京无中介租房](https://www.douban.com/group/262626/)
 
 
 
