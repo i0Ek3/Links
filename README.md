@@ -122,6 +122,7 @@
 
 ## Activate
 
+- [IDE-Eval-Resetter](https://gitee.com/pengzhile/ide-eval-resetter)
 - [JetBrains Crack](http://idea.lanyus.com/)
 - [Free JetBrains License Servers](http://xidea.online) 
 - [Windows&Office Activate](https://cangshui.net/?page_id=1531)
@@ -595,7 +596,7 @@
 
 ## IDE
 
-- [JetBrains](https://www.jetbrains.com)
+- [JetBrains](https://www.jetbrains.com) How to [activate](https://gitee.com/pengzhile/ide-eval-resetter)?
 - [Qt](http://download.qt.io/official_releases/qt/)
 
 [Back Top](#links)
@@ -752,6 +753,8 @@
 
 ## Mac Things
 
+- [macwk.com](https://macwk.com)
+- [xclient](http://xclient.info/?t=680034e137bc7cc9b41bad81241e03e932425016) 当然，大家有经济能力的还是推荐购买正版，毕竟盗版的谁也说不准是否会有后门什么的。
 - [Mac OS 之程序员](https://www.kancloud.cn/chandler/mac_os)
 - [gofans.cn](https://gofans.cn/?fr=xc)
 - [hackintosh](https://zhih.me/hackintosh/#/)
@@ -760,7 +763,6 @@
 - [apple-download-center](https://developer.apple.com/download/more/)
 - [objective-see](https://objective-see.com/index.html)
 - [malwarebytes4mac](https://www.malwarebytes.com)
-- [xclient](http://xclient.info/?t=680034e137bc7cc9b41bad81241e03e932425016) 当然，大家有经济能力的还是推荐购买正版，毕竟盗版的谁也说不准是否会有后门什么的。
 - [waitsun](https://www.waitsun.com)
 - [packal for alfred](http://www.packal.org/)
 - [eZip](https://ezip.awehunt.com) 非常好用的且免费的mac平台解压工具，功能齐全。
@@ -1251,6 +1253,7 @@
 
 ## Tool
 
+- [Pomotodo](https://mac.pomotodo.com/intl/zh-CN)
 - [Zen Flowchart](https://www.zenflowchart.com)
 - [Wolframalpha](https://www.wolframalpha.com/)
 - [Ascii math](http://asciimath.org)
